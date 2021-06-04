@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1198">
+        <Style id="1199">
+            <IconStyle id="1200">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="1201">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="1203">
+            <name>Broomfield Farm Caravan Club Site</name>
+            <phoneNumber>01825 872242</phoneNumber>
+            <description> Broomfield Farm, Stalkers Lane, East Hoathly, Lewes, East Sussex, BN8 6QS, England, 01825 872242</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1202">
+                <coordinates>0.19372,50.92511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>Slinfold Caravan Club Site</name>
+            <phoneNumber>01403 790269</phoneNumber>
+            <description> Slinfold, Spring Lane, Slinfold, Horsham, West Sussex, RH13 0RT, England, 01403 790269</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1204">
+                <coordinates>-0.41382,51.068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>East Fleet Farm Touring Park</name>
+            <phoneNumber>01305 785768</phoneNumber>
+            <description> East Fleet, Chickerell, Weymouth, Dorset, DT3 4DW, England, 01305 785768</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1206">
+                <coordinates>-2.511436,50.616477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>Cadeside Caravan Club Site</name>
+            <phoneNumber>01823 663103</phoneNumber>
+            <description> Cadeside, Nynehead Road, Wellington, Taunton, Somerset, TA21 9HN, England, 01823 663103</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1208">
+                <coordinates>-3.2176,50.98609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>Harbury Fields Farm Touring Park</name>
+            <phoneNumber>01926 612457</phoneNumber>
+            <description> Harbury Fields, Middle Road, Harbury, Leamington Spa, Warwickshire, CV33 9JN, England, 01926 612457</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1210">
+                <coordinates>-1.485815,52.240204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>North Yorkshire Moors Caravan Club Site</name>
+            <phoneNumber>01947 810505</phoneNumber>
+            <description> North Yorkshire Moors, Sneaton, Whitby, North Yorkshire, YO22 5JE, England, 01947 810505</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1212">
+                <coordinates>-0.62396,54.42314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>The Howard, Rosedale Abbey Caravan Club Site</name>
+            <phoneNumber>01751 417842</phoneNumber>
+            <description> Rosedale Abbey Caravan Club Site&gt;01751 417842, The Howard, Rosedale Abbey, Rosedale Abbey, Pickering, North Yorkshire, YO18 8SA, England, 01751 417842</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1214">
+                <coordinates>-0.88579,54.35222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>Rutland Caravan and Camping Site</name>
+            <phoneNumber>01572 813520</phoneNumber>
+            <description> Rutland, Park Lane, Greetham, Oakham, Rutland, LE15 7FN, England, 01572 813520</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1216">
+                <coordinates>-0.631954,52.723962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>Ferry Meadows Caravan Club Site</name>
+            <phoneNumber>01733 233526</phoneNumber>
+            <description> Ferry Meadows, Ham Lane, Peterborough, Cambridgeshire, PE2 5UU, England, 01733 233526</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1218">
+                <coordinates>-0.30593,52.56053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>Richmond Hargill House Caravan Club Site</name>
+            <phoneNumber>01748 822734</phoneNumber>
+            <description> Richmond Hargill House, Gilling West, Richmond, North Yorkshire, DL10 5LJ, England, 01748 822734</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1220">
+                <coordinates>-1.70574,54.45297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>River Breamish Caravan Club Site</name>
+            <phoneNumber>01665 578320</phoneNumber>
+            <description> River Breamish, Powburn, Alnwick, Northumberland, NE66 4HY, England, 01665 578320</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1222">
+                <coordinates>-1.92112,55.44529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>Rowan Park Caravan Club Site</name>
+            <phoneNumber>01243 828515</phoneNumber>
+            <description> Rowan Park, Rowan Way, Bognor Regis, West Sussex, PO22 9RP, England, 01243 828515</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1224">
+                <coordinates>-0.66818,50.8049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>Crystal Palace Caravan Club Site</name>
+            <phoneNumber>020 8778 7155</phoneNumber>
+            <description> Crystal Palace, Old Cople Lane, Crystal Palace Parade, London, London, SE19 1UF, England, 020 8778 7155</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1226">
+                <coordinates>-0.07315,51.42503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>Scarborough West Ayton Caravan Club Site</name>
+            <phoneNumber>01723 862989</phoneNumber>
+            <description> Scarborough West Ayton, Cockrah Road, West Ayton, Scarborough, North Yorkshire, YO13 9JD, England, 01723 862989</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1228">
+                <coordinates>-0.48936,54.25412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>Seacroft Caravan Club Site</name>
+            <phoneNumber>01263 514938</phoneNumber>
+            <description> Seacroft, Runton Road, Cromer, Norfolk, NR27 9NH, England, 01263 514938</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1230">
+                <coordinates>1.278585,52.933575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>Crossways Caravan Club Site</name>
+            <phoneNumber>01305 852032</phoneNumber>
+            <description> Crossways, Moreton, Dorchester, Dorset, DT2 8BE, England, 01305 852032</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1232">
+                <coordinates>-2.312707,50.699597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>Gwern-Y-Bwlch Caravan Club Site</name>
+            <phoneNumber>01650 521351</phoneNumber>
+            <description> Gwern-Y-Bwlch, Llanbrynmair, Powys, SY19 7EB, Wales, 01650 521351</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1234">
+                <coordinates>-3.65862,52.62015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>Cheltenham Racecourse Caravan Club Site</name>
+            <phoneNumber>01242 523102</phoneNumber>
+            <description> Cheltenham Racecourse, Prestbury Park, Cheltenham, Gloucestershire, GL50 4SH, England, 01242 523102</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1236">
+                <coordinates>-2.065987,51.917412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>Freshwater East Caravan Club Site</name>
+            <phoneNumber>01646 672341</phoneNumber>
+            <description> Freshwater East, Trewent Hill, Freshwater East, Pembroke, Pembrokeshire, SA71 5LJ, Wales, 01646 672341</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1238">
+                <coordinates>-4.87185,51.64514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>Brecon Beacons Caravan Club Site</name>
+            <phoneNumber>01874 623325</phoneNumber>
+            <description> Brecon Beacons, Brecon, Powys, LD3 7SH, Wales, 01874 623325</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1240">
+                <coordinates>-3.35452,51.941778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>Hunter's Moon Caravan Club Site</name>
+            <phoneNumber>01929 556605</phoneNumber>
+            <description> Hunter's Moon, Cold Harbour, Wareham, Dorset, BH20 7PA, England, 01929 556605</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1242">
+                <coordinates>-2.145198,50.711732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>Chester Fairoaks Caravan Club Site</name>
+            <phoneNumber>01513 551600</phoneNumber>
+            <description> Chester Fairoaks, Rake Lane, Little Stanney, Chester, Cheshire, CH2 4HS, England, 01513 551600</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1244">
+                <coordinates>-2.88624,53.25683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>Putts Corner Caravan Club Site</name>
+            <phoneNumber>01404 42875</phoneNumber>
+            <description> Putts Corner, Sidbury, Sidmouth, Devon, EX10 0QQ, England, 01404 42875</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1246">
+                <coordinates>-3.219002,50.760735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>Huntly Castle Caravan Park</name>
+            <phoneNumber>01466 794999</phoneNumber>
+            <description> Huntly Castle, Huntly, Aberdeenshire, AB54 4UJ, Scotland, 01466 794999</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1248">
+                <coordinates>-2.79197,57.4519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>Silverbank Caravan Club Site</name>
+            <phoneNumber>01330 822477</phoneNumber>
+            <description> Silverbank, North Deeside Road, Banchory, Aberdeenshire, AB31 5PY, Scotland, 01330 822477</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1250">
+                <coordinates>-2.4703,57.05759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>Bolton Abbey Estate Caravan Club Site</name>
+            <phoneNumber>01756 710433</phoneNumber>
+            <description> Bolton Abbey, Bolton Abbey, Skipton, North Yorkshire, BD23 6AN, England, 01756 710433</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1252">
+                <coordinates>-1.911556,54.00309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>Stonehaven Queen Elizabeth Park Caravan Club Site</name>
+            <phoneNumber>01569 760088</phoneNumber>
+            <description> Stonehaven, Stonehaven, Aberdeenshire, AB39 2RD, Scotland, 01569 760088</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1254">
+                <coordinates>-2.203563,56.970088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>Borrowdale Caravan Club Site</name>
+            <phoneNumber>01768 777275</phoneNumber>
+            <description> Borrowdale, Manesty, Keswick, Cumbria, CA12 5UG, England, 01768 777275</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1256">
+                <coordinates>-3.15906,54.55765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>Bourton-on-the-Water Caravan Club Site</name>
+            <phoneNumber>01451 850249</phoneNumber>
+            <description> Bourton-on-the-Water, Cheltenham Road, Bourton-on-the-Water, Gloucestershire, GL54 3BU, England, 01451 850249</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1258">
+                <coordinates>-1.86727,51.88973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>Warwick Racecourse Caravan Club Site</name>
+            <phoneNumber>01926 495448</phoneNumber>
+            <description> Warwick Racecourse, Hampton Street, Warwick, Warwickshire, CV34 6HN, England, 01926 495448</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1260">
+                <coordinates>-1.59779,52.27951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>Grantown-on-Spey Caravan Park</name>
+            <phoneNumber>01479 872474</phoneNumber>
+            <description> Grantown-on-Spey Seafield Avenue, Grantown-on-Spey, Highlands, PH26 3JQ, Scotland, 01479 872474</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1262">
+                <coordinates>-3.61839,57.33474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>Skegness Sands</name>
+            <phoneNumber>01754 761484</phoneNumber>
+            <description> Skegness Sands, Winthorpe Avenue, Skegness, Lincolnshire, PE25 1QZ, England, 01754 761484</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1264">
+                <coordinates>0.3497,53.16732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>Treamble Valley Caravan Club Site</name>
+            <phoneNumber>01872 573675</phoneNumber>
+            <description> Treamble Valley, Rose, Truro, Cornwall, TR4 9PR, England, 01872 573675</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1266">
+                <coordinates>-5.11187,50.361604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>Stover Caravan Club Site</name>
+            <phoneNumber>01626 361430</phoneNumber>
+            <description> Stover, Newton Abbot, Devon, TQ12 6QG, England, 01626 361430</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1268">
+                <coordinates>-3.648228,50.56057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>Gowerton Caravan Club Site</name>
+            <phoneNumber>01792 873050</phoneNumber>
+            <description> Gowerton, Pont-y-Cob Road, Gowerton, Swansea, Swansea, SA4 3QP, Wales, 01792 873050</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1270">
+                <coordinates>-4.05376,51.65345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>Longleat Caravan Club Site</name>
+            <phoneNumber>01985 844663</phoneNumber>
+            <description> Longleat, Warminster, Wiltshire, BA12 7NL, England, 01985 844663</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1272">
+                <coordinates>-2.27835,51.19053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>Bunree Caravan Club Site</name>
+            <phoneNumber>01855 821283</phoneNumber>
+            <description> Bunree, Onich, Fort William, Highlands, PH33 6SE, Scotland, 01855 821283</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1274">
+                <coordinates>-5.23592,56.71334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>Southland Caravan Club Site</name>
+            <phoneNumber>01983 865385</phoneNumber>
+            <description> Southland, Winford Road, Newchurch, Sandown, Isle Of Wight, PO36 0LZ, England, 01983 865385</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1276">
+                <coordinates>-1.213506,50.65951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>Rookesbury Park Caravan Club Site</name>
+            <phoneNumber>01329 834085</phoneNumber>
+            <description> Rookesbury Park, Hundred Acres Road, Wickham, Fareham, Hampshire, PO17 6JR, England, 01329 834085</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1278">
+                <coordinates>-1.1613,50.90656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>Balbirnie Park Caravan Club Site</name>
+            <phoneNumber>01592 759130</phoneNumber>
+            <description> Balbirnie Park, Glenrothes, Fife, KY7 6NR, Scotland, 01592 759130</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1280">
+                <coordinates>-3.14032,56.20528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>Strathclyde Country Park Caravan Club Site</name>
+            <phoneNumber>01698 853300</phoneNumber>
+            <description> Strathclyde Country Park, Bothwellhaugh Road, Bothwell, Glasgow, Glasgow, G71 8NY, Scotland, 01698 853300</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1282">
+                <coordinates>-4.0465446,55.8040342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>Altnaharra Caravan Club Site</name>
+            <phoneNumber>01549 411226</phoneNumber>
+            <description> Altnaharra, Altnaharra, Lairg, Highlands, IV27 4UE, Scotland, 01549 411226</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1284">
+                <coordinates>-4.372976,58.296449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>Brora Caravan Club Site</name>
+            <phoneNumber>01408 621479</phoneNumber>
+            <description> Brora, Dalchalm, Brora, Highlands, KW9 6LP, Scotland, 01408 621479</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1286">
+                <coordinates>-3.84437,58.02865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>Dunnet Bay Caravan Club Site</name>
+            <phoneNumber>01847 821319</phoneNumber>
+            <description> Dunnet Bay, Dunnet, Thurso, Highlands, KW14 8XD, Scotland, 01847 821319</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1288">
+                <coordinates>-3.34561,58.61518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>Kinlochewe Caravan Club Site</name>
+            <phoneNumber>01445 760239</phoneNumber>
+            <description> Kinlochewe, Kinlochewe, Achnasheen, Highlands, IV22 2PA, Scotland, 01445 760239</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1290">
+                <coordinates>-5.304057,57.604485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>Lidalia Caravan Club Site</name>
+            <phoneNumber>nan</phoneNumber>
+            <description> Old Station Yard, Moss Road, Newcastleton, Scottish Borders, TD9 0RU, Scotland, nan</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1292">
+                <coordinates>-2.81344,55.18164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1295">
+            <name>Melrose Gibson Park Caravan Club Site</name>
+            <phoneNumber>01896 822969</phoneNumber>
+            <description> Melrose Gibson Park, High Street, Melrose, Scottish Borders, TD6 9RY, Scotland, 01896 822969</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1294">
+                <coordinates>-2.72413,55.59893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1297">
+            <name>Clachan Caravan Club Site</name>
+            <phoneNumber>01567 820245</phoneNumber>
+            <description> Clachan, c/o Maragowan Caravan Club Site, Aberfeldy Road, Killin, Stirling, FK21 8TN, Scotland, 01567 820245</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1296">
+                <coordinates>-4.30901,56.48239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1299">
+            <name>Bromyard Downs Caravan Club Site</name>
+            <phoneNumber>01885 482607</phoneNumber>
+            <description> Bromyard Downs, Brockhampton, Worcester, Herefordshire, WR6 5TE, England, 01885 482607</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1298">
+                <coordinates>-2.47019,52.18708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1301">
+            <name>Lucksall Caravan and Camping Park</name>
+            <phoneNumber>01432 870213</phoneNumber>
+            <description> Lucksall, Mordiford, Hereford, Herefordshire, HR1 4LP, England, 01432 870213</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1300">
+                <coordinates>-2.63073,52.02179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1303">
+            <name>Thetford Forest Caravan Club Site</name>
+            <phoneNumber>01842 878356</phoneNumber>
+            <description> Thetford Forest, High Ash, Hilborough, Thetford, Norfolk, IP26 5BZ, England, 01842 878356</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1302">
+                <coordinates>0.66748,52.53954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1305">
+            <name>Wagtail Country Park</name>
+            <phoneNumber>0781 448 1088</phoneNumber>
+            <description> Wagtail Country Park, Cliff Lane, Marston, Lincolnshire, NG32 2HU, England, 0781 448 1088</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1304">
+                <coordinates>-0.664759,52.960932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>Milestone Caravan Park</name>
+            <phoneNumber>01636 821244</phoneNumber>
+            <description> Milestone, Great North Road, Cromwell, Newark, Nottinghamshire, NG23 6JE, England, 01636 821244</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1306">
+                <coordinates>-0.8075,53.14995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>Hebden Bridge Caravan Club Site</name>
+            <phoneNumber>01422 882531</phoneNumber>
+            <description> Hebden Bridge, Cragg Vale, Hebden Bridge, West Yorkshire, HX7 5RU, England, 01422 882531</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1308">
+                <coordinates>-1.99074,53.72025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>Glenross Caravan and Camping Park</name>
+            <phoneNumber> 00 353 87 1376865</phoneNumber>
+            <description> Glenross, Glenbeigh, Co Kerry, Republic of Ireland,  00 353 87 1376865</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1310">
+                <coordinates>-9.93223,52.0619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>Hidden Valley Holiday Park</name>
+            <phoneNumber>00 353 86 7272872</phoneNumber>
+            <description> Hidden Valley Rathdrum, Co Wicklow, Republic of Ireland, 00 353 86 7272872</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1312">
+                <coordinates>-6.227354,52.93915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>River Valley Holiday Park</name>
+            <phoneNumber>00 353 404 41647</phoneNumber>
+            <description> River Valley Redcross Village, Co Wicklow, Republic of Ireland, 00 353 404 41647</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1314">
+                <coordinates>-6.11989975,52.90890205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>Daleacres Caravan Club Site</name>
+            <phoneNumber>01303 267679</phoneNumber>
+            <description> Daleacres, Lower Wall Road, Hythe, Kent, CT21 4NW, England, 01303 267679</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1316">
+                <coordinates>1.01247,51.05838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>Meathop Fell Caravan Club Site</name>
+            <phoneNumber>01539 532912</phoneNumber>
+            <description> Meathop Fell, Grange-over-Sands, Cumbria, LA11 6RB, England, 01539 532912</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1318">
+                <coordinates>-2.86422,54.21552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>Pembrey Country Park Caravan Club Site</name>
+            <phoneNumber>01554 834369</phoneNumber>
+            <description> Pembrey Country Park, Pembrey, Llanelli, Carmarthenshire, SA16 0EJ, Wales, 01554 834369</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1320">
+                <coordinates>-4.297918,51.682328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>Pandy Caravan Club Site</name>
+            <phoneNumber>01873 890370</phoneNumber>
+            <description> Pandy, Pandy, Abergavenny, Monmouthshire, NP7 8DR, Wales, 01873 890370</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1322">
+                <coordinates>-2.96859,51.898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1325">
+            <name>St David's Lleithyr Meadow Caravan Club Site</name>
+            <phoneNumber>01437 720401</phoneNumber>
+            <description> St David's Lleithyr Meadow, Whitesands, St David's, Pembrokeshire, SA62 6PR, Wales, 01437 720401</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1324">
+                <coordinates>-5.27853,51.89645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1327">
+            <name>Culloden Moor Caravan Club Site</name>
+            <phoneNumber>01463 790625</phoneNumber>
+            <description> Culloden Moor, Newlands, Inverness, Highlands, IV2 5EF, Scotland, 01463 790625</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1326">
+                <coordinates>-4.05748,57.48601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1329">
+            <name>Tredegar House Country Park Caravan Club Site</name>
+            <phoneNumber>01633 815600</phoneNumber>
+            <description> Tredegar House Country Park, Tredegar House, Coedkernew, Newport, Newport, NP10 8TW, Wales, 01633 815600</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1328">
+                <coordinates>-3.03341,51.56148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1331">
+            <name>Thirsk Racecourse Caravan Club Site</name>
+            <phoneNumber>01845 525266</phoneNumber>
+            <description> Thirsk Racecourse, Thirsk, North Yorkshire, YO7 1QL, England, 01845 525266</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1330">
+                <coordinates>-1.349815,54.231305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1333">
+            <name>Min Y Don Caravan Club Site</name>
+            <phoneNumber>01766 780286</phoneNumber>
+            <description> Min Y Don Beach Road, Harlech, Gwynedd, LL46 2UG, Wales, 01766 780286</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1332">
+                <coordinates>-4.113934,52.862044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1335">
+            <name>Riverside Touring Park</name>
+            <phoneNumber>01690 710310</phoneNumber>
+            <description> Riverside, Old Church Road, Betws-y-Coed, Conwy, LL24 0AL, Wales, 01690 710310</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1334">
+                <coordinates>-3.798541,53.094192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1337">
+            <name>Trevedra Farm </name>
+            <phoneNumber>01736 871818</phoneNumber>
+            <description> Trevedra Farm, Sennen, Penzance, Cornwall, TR19 7BE, England, 01736 871818</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1336">
+                <coordinates>-5.67891,50.08804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1339">
+            <name>The Ranch</name>
+            <phoneNumber> 07990 662422</phoneNumber>
+            <description> The Ranch, Culzean Road, Maybole, South Ayrshire, KA19 8DU, Scotland,  07990 662422</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1338">
+                <coordinates>-4.70581,55.35619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1341">
+            <name>Gaer Hyfryd Caravan Club Site</name>
+            <phoneNumber>01490 412189</phoneNumber>
+            <description> Gaer Hyfryd, Corwen, Denbighshire, LL21 0EW, Wales, 01490 412189</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1340">
+                <coordinates>-3.41308,52.97555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1343">
+            <name>Carradale Bay Caravan Site</name>
+            <phoneNumber>01583 431665</phoneNumber>
+            <description> Carradale Bay Carradale, Campbeltown, Argyll &amp; Bute, PA28 6QG, Scotland, 01583 431665</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1342">
+                <coordinates>-5.48443,55.58363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1345">
+            <name>Hillhead Caravan Club Site</name>
+            <phoneNumber>01803 853204</phoneNumber>
+            <description> Hillhead, Hillhead, Brixham, Devon, TQ5 0HH, England, 01803 853204</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1344">
+                <coordinates>-3.544771,50.369847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <name>Cheddar Caravan Club Site</name>
+            <phoneNumber>01934 740207</phoneNumber>
+            <description> Cheddar, Gas House Lane, Draycott Road, Cheddar, Somerset, BS27 3RL, England, 01934 740207</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1346">
+                <coordinates>-2.77568,51.2719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1349">
+            <name>Chapel Lane Caravan Club Site</name>
+            <phoneNumber>01564 826483</phoneNumber>
+            <description> Chapel Lane, Chapel Lane, Wythall, Birmingham, West Midlands, B47 6JX, England, 01564 826483</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1348">
+                <coordinates>-1.8942,52.373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>Cayton Village Club Site</name>
+            <phoneNumber>01723 583171</phoneNumber>
+            <description> Cayton Village Club Site, Mill Lane, Cayton Bay, Scarborough, North Yorkshire, YO11 3NN, England, 01723 583171</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1350">
+                <coordinates>-0.376637,54.235558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1353">
+            <name>Wharfedale Caravan Club Site</name>
+            <phoneNumber>01756 753340</phoneNumber>
+            <description> Wharfedale Long Ashes, Threshfield, Skipton, North Yorkshire, BD23 5PN, England, 01756 753340</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1352">
+                <coordinates>-2.03317,54.07783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1355">
+            <name>Camelford Caravan Club Site</name>
+            <phoneNumber>01840 212206</phoneNumber>
+            <description> Camelford, Camelford, Cornwall, PL32 9RF, England, 01840 212206</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1354">
+                <coordinates>-4.690298,50.615336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>Willingcott Caravan Club Site</name>
+            <phoneNumber>01271 870554</phoneNumber>
+            <description> Willingcott, Woolacombe, Devon, EX34 7HN, England, 01271 870554</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1356">
+                <coordinates>-4.16798,51.16961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1359">
+            <name>York Beechwood Grange Caravan Club Site</name>
+            <phoneNumber>01904 424637</phoneNumber>
+            <description> York Beechwood Grange, Malton Road, York, North Yorkshire, YO32 9TH, England, 01904 424637</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1358">
+                <coordinates>-1.02764,53.99514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1361">
+            <name>Buxton Caravan Club Site</name>
+            <phoneNumber>01298 77735</phoneNumber>
+            <description> Buxton, Grin Low Road, Ladmanlow, Buxton, Derbyshire, SK17 6UJ, England, 01298 77735</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1360">
+                <coordinates>-1.92874,53.24511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>Cambridge Cherry Hinton Caravan Club Site</name>
+            <phoneNumber>01223 244088</phoneNumber>
+            <description> Cambridge Cherry Hinton, Lime Kiln Road, Cherry Hinton, Cambridge, Cambridgeshire, CB1 8NQ, England, 01223 244088</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1362">
+                <coordinates>0.16798,52.18089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1365">
+            <name>Modbury Caravan Club Site</name>
+            <phoneNumber>01548 830714</phoneNumber>
+            <description> Modbury, Higher East Leigh, Ivybridge, Devon, PL21 0SH, England, 01548 830714</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1364">
+                <coordinates>-3.842121,50.356547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1367">
+            <name>Merrose Farm Caravan Club Site</name>
+            <phoneNumber>01872 580380</phoneNumber>
+            <description> Merrose Farm, Portscatho, Truro, Cornwall, TR2 5EL, England, 01872 580380</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1366">
+                <coordinates>-4.972021,50.201969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>Minehead Caravan Club Site</name>
+            <phoneNumber>01643 704345</phoneNumber>
+            <description> Minehead, Hopcott Road, Minehead, Somerset, TA24 6DJ, England, 01643 704345</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1368">
+                <coordinates>-3.47348,51.19794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1371">
+            <name>Moreton-in-Marsh Caravan Club Site</name>
+            <phoneNumber>01608 650519</phoneNumber>
+            <description> Moreton-in-Marsh, Bourton Road, Moreton-in-Marsh, Gloucestershire, GL56 0BT, England, 01608 650519</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1370">
+                <coordinates>-1.71097,51.98931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1373">
+            <name>Moorhampton Caravan Club Site</name>
+            <phoneNumber>01544 318594</phoneNumber>
+            <description> Moorhampton, The Old Station, Moorhampton, Hereford, Herefordshire, HR4 7BE, England, 01544 318594</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1372">
+                <coordinates>-2.89289,52.11774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>Coed-Y-Llwyn Caravan Club Site</name>
+            <phoneNumber>01766 590254</phoneNumber>
+            <description> Coed-Y-Llwyn, Gellilydan, Blaenau Ffestiniog, Gwynedd, LL41 4EN, Wales, 01766 590254</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1374">
+                <coordinates>-3.95881,52.93657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1377">
+            <name>Old Hartley Caravan Club Site</name>
+            <phoneNumber>0191 237 0256</phoneNumber>
+            <description> Old Hartley, Whitley Bay, Tyne &amp; Wear, NE26 4RL, England, 0191 237 0256</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1376">
+                <coordinates>-1.463928,55.076008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1379">
+            <name>Cae Mawr Caravan Club Site</name>
+            <phoneNumber>01248 853737</phoneNumber>
+            <description> Cae Mawr, Llangefni Road, Marianglas, Anglesey, LL73 8NY, Wales, 01248 853737</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1378">
+                <coordinates>-4.25368,53.33241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>Garlieston Caravan Club Site</name>
+            <phoneNumber>01988 600636</phoneNumber>
+            <description> Garlieston, Garlieston, Newton Stewart, Dumfries &amp; Galloway, DG8 8BS, Scotland, 01988 600636</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1380">
+                <coordinates>-4.367967,54.787263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1383">
+            <name>Lower Wensleydale Caravan Club Site</name>
+            <phoneNumber>01969 623366</phoneNumber>
+            <description> Lower Wensleydale, Harmby, Leyburn, North Yorkshire, DL8 5NU, England, 01969 623366</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1382">
+                <coordinates>-1.80987,54.30849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1385">
+            <name>Looe Caravan Club Site</name>
+            <phoneNumber>01503 264006</phoneNumber>
+            <description> Looe, St Martin, Looe, Cornwall, PL13 1PB, England, 01503 264006</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1384">
+                <coordinates>-4.440805,50.37632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>Kendal Caravan Club Site</name>
+            <phoneNumber>01539 560186</phoneNumber>
+            <description> Kendal, Sedgwick, Kendal, Cumbria, LA8 0JZ, England, 01539 560186</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1386">
+                <coordinates>-2.75658,54.28166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1389">
+            <name>Wirral Country Park Caravan Club Site</name>
+            <phoneNumber>01516 485228</phoneNumber>
+            <description> Wirral Country Park, Station Road, Thurstaston, Merseyside, CH61 0HN, England, 01516 485228</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1388">
+                <coordinates>-3.14679,53.34329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1391">
+            <name>Ilminster Caravan Club Site</name>
+            <phoneNumber>01460 234519</phoneNumber>
+            <description> Ilminster, Beetham, Chard, Somerset, TA20 3QA, England, 01460 234519</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1390">
+                <coordinates>-3.03526,50.90632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1393">
+            <name>Penrhos Caravan Club Site</name>
+            <phoneNumber>01248 852617</phoneNumber>
+            <description> Penrhos, Brynteg, Benllech, Anglesey, LL78 7JH, Wales, 01248 852617</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1392">
+                <coordinates>-4.27062,53.31241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1395">
+            <name>Haycraft Caravan Club Site</name>
+            <phoneNumber>01929 480572</phoneNumber>
+            <description> Haycraft, Haycrafts Lane, Swanage, Dorset, BH19 3EB, England, 01929 480572</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1394">
+                <coordinates>-2.02223,50.61667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1397">
+            <name>Hawes Caravan Club Site</name>
+            <phoneNumber>01969 667338</phoneNumber>
+            <description> Hawes, Brunt Acres Road, Hawes, North Yorkshire, DL8 3PS, England, 01969 667338</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1396">
+                <coordinates>-2.18801,54.3079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1399">
+            <name>Grafham Water Caravan Club Site</name>
+            <phoneNumber>01480 810264</phoneNumber>
+            <description> Grafham Water, Church Road, Grafham, Huntingdon, Cambridgeshire, PE28 0BB, England, 01480 810264</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1398">
+                <coordinates>-0.30405,52.31204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1401">
+            <name>Gatwick Caravan Club Site</name>
+            <phoneNumber>01293 524834</phoneNumber>
+            <description> Gatwick, Charlwood Road, Lowfield Heath, Crawley, West Sussex, RH11 0QA, England, 01293 524834</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1400">
+                <coordinates>-0.20212,51.14319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1403">
+            <name>Exmoor House Caravan Club Site</name>
+            <phoneNumber>01398 323268</phoneNumber>
+            <description> Exmoor House, Kemps Way, Dulverton, Somerset, TA22 9HL, England, 01398 323268</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1402">
+                <coordinates>-3.55284,51.04144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1405">
+            <name>Exebridge Lakeside Caravan Club Site</name>
+            <phoneNumber>01398 324068</phoneNumber>
+            <description> Exebridge Lakeside, Higher Grants, Exebridge, Dulverton, Devon, TA22 9BE, England, 01398 324068</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1404">
+                <coordinates>-3.52449,51.00576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1407">
+            <name>Durham Grange Caravan Club Site</name>
+            <phoneNumber>01913 844778</phoneNumber>
+            <description> Durham Grange, Meadow Lane, Durham, County Durham, DH1 1TL, England, 01913 844778</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1406">
+                <coordinates>-1.53065,54.79545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1409">
+            <name>Sutton-on-Sea Caravan Club Site</name>
+            <phoneNumber>01507 441503</phoneNumber>
+            <description> Sutton-on-Sea, Crabtree Lane, Sutton-on-Sea, Mablethorpe, Lincolnshire, LN12 2RS, England, 01507 441503</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1408">
+                <coordinates>0.27711,53.29542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1411">
+            <name>Teesdale Barnard Castle Caravan Club Site</name>
+            <phoneNumber>01833 637999</phoneNumber>
+            <description> Teesdale Barnard Castle, Lartington Lane, Barnard Castle, County Durham, DL12 9BD, England, 01833 637999</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1410">
+                <coordinates>-1.941264,54.546386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1413">
+            <name>Tewkesbury Abbey Caravan Club Site</name>
+            <phoneNumber>01684 294035</phoneNumber>
+            <description> Tewkesbury Abbey, Gander Lane, Tewkesbury, Gloucestershire, GL20 5PG, England, 01684 294035</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1412">
+                <coordinates>-2.1574,51.98912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1415">
+            <name>The Firs Caravan Club Site</name>
+            <phoneNumber>01773 852913</phoneNumber>
+            <description> The Firs, Crich Lane, Belper, Derbyshire, DE56 2JH, England, 01773 852913</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1414">
+                <coordinates>-1.473069,53.048798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1417">
+            <name>Carsington Water Caravan Club Site</name>
+            <phoneNumber>01335 370903</phoneNumber>
+            <description> Carsington Water, Kirk Ireton, Ashbourne, Derbyshire, DE6 3JL, England, 01335 370903</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1416">
+                <coordinates>-1.62705,53.04414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1419">
+            <name>White Water Park Caravan Club Site</name>
+            <phoneNumber>01642 634880</phoneNumber>
+            <description> White Water Park, Tees Barrage, Stockton-on-Tees, County Durham, TS18 2QW, England, 01642 634880</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1418">
+                <coordinates>-1.28631,54.5684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1421">
+            <name>Burrs Country Park Caravan Club Site</name>
+            <phoneNumber>0161 761 0489</phoneNumber>
+            <description> Burrs Country Park, Woodhill Road, Bury, Lancashire, BL8 1DA, England, 0161 761 0489</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1420">
+                <coordinates>-2.30484,53.61054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1423">
+            <name>Blackshaw Moor Caravan Club Site</name>
+            <phoneNumber>01538 300203</phoneNumber>
+            <description> Blackshaw Moor, Leek, Staffordshire, ST13 8TW, England, 01538 300203</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1422">
+                <coordinates>-1.98503,53.13864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1425">
+            <name>Bridport Bingham Grange Club Site</name>
+            <phoneNumber>01308 488183</phoneNumber>
+            <description> Bridport Bingham Grange, Melplash, Bridport, Dorset, DT6 3TT, England, 01308 488183</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1424">
+                <coordinates>-2.740318,50.764079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1427">
+            <name>Black Knowl Caravan Club Site</name>
+            <phoneNumber>01590 623600</phoneNumber>
+            <description> Black Knowl, Aldridge Hill, Brockenhurst, Hampshire, SO42 7QD, England, 01590 623600</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1426">
+                <coordinates>-1.59541,50.82919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1429">
+            <name>Berwick Seaview Caravan Club Site</name>
+            <phoneNumber>01289 305198</phoneNumber>
+            <description> Berwick Seaview, Billendean Road, Spittal, Berwick-upon-Tweed, Northumberland, TD15 1QU, England, 01289 305198</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1428">
+                <coordinates>-1.99878,55.75895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1431">
+            <name>Battle Normanhurst Court Caravan Club Site</name>
+            <phoneNumber>01424 773808</phoneNumber>
+            <description> Battle Normanhurst Court, Stevens Crouch, Battle, East Sussex, TN33 9LR, England, 01424 773808</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1430">
+                <coordinates>0.43189,50.9077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1433">
+            <name>Baltic Wharf Caravan Club Site</name>
+            <phoneNumber>01179 268030</phoneNumber>
+            <description> Baltic Wharf, Cumberland Road, Bristol, Bristol, BS1 6XG, England, 01179 268030</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1432">
+                <coordinates>-2.614896,51.446966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1435">
+            <name>Alderstead Heath Caravan Club Site</name>
+            <phoneNumber>01737 644629</phoneNumber>
+            <description> Alderstead Heath, Dean Lane, Merstham, Redhill, Surrey, RH1 3AH, England, 01737 644629</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1434">
+                <coordinates>-0.13888,51.2832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1437">
+            <name>Abbey Wood Caravan Club Site</name>
+            <phoneNumber>020 8311 7708</phoneNumber>
+            <description> Abbey Wood, Federation Road, London, London, SE2 0LS, England, 020 8311 7708</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1436">
+                <coordinates>0.11971,51.48635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1439">
+            <name>Ashridge Farm Caravan Club Site</name>
+            <phoneNumber>01462 742527</phoneNumber>
+            <description> Ashridge Farm, Ashwell Street, Ashwell, Baldock, Hertfordshire, SG7 5QF, England, 01462 742527</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1438">
+                <coordinates>-0.142022,52.042988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1441">
+            <name>Bladon Chains Caravan Club Site</name>
+            <phoneNumber>01993 812390</phoneNumber>
+            <description> Bladon Chains, Bladon Road, Woodstock, Oxfordshire, OX20 1PT, England, 01993 812390</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1440">
+                <coordinates>-1.34168,51.83818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1443">
+            <name>The Sandringham Estate Caravan Club Site</name>
+            <phoneNumber>01553 631614</phoneNumber>
+            <description> The Sandringham Estate, Glucksburg Woods, Sandringham, Norfolk, PE35 6EZ, England, 01553 631614</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1442">
+                <coordinates>0.49388,52.81255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1445">
+            <name>Forfar Lochside Caravan Club Site</name>
+            <phoneNumber>01307 468917</phoneNumber>
+            <description> Forfar Lochside Forfar Country Park, Craig O Loch Road, Forfar, Angus, DD8 1BT, Scotland, 01307 468917</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1444">
+                <coordinates>-2.895541,56.6442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1447">
+            <name>North Ledaig Caravan Club Site</name>
+            <phoneNumber>01631 710291</phoneNumber>
+            <description> North Ledaig, Connel, Oban, Argyll &amp; Bute, PA37 1RU, Scotland, 01631 710291</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1446">
+                <coordinates>-5.398674,56.47743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1449">
+            <name>Ayr Craigie Gardens Caravan Club Site</name>
+            <phoneNumber>01292 264909</phoneNumber>
+            <description> Ayr Craigie Gardens, Craigie Road, Ayr, South Ayrshire, KA8 0SS, Scotland, 01292 264909</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1448">
+                <coordinates>-4.616242,55.459489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1451">
+            <name>Edinburgh Caravan Club Site</name>
+            <phoneNumber>0131 312 6874</phoneNumber>
+            <description> Edinburgh, 35-37 Marine Drive, Edinburgh, Edinburgh, EH4 5EN, Scotland, 0131 312 6874</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1450">
+                <coordinates>-3.2651,55.97764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1453">
+            <name>New England Bay Caravan Club Site</name>
+            <phoneNumber>01776 860275</phoneNumber>
+            <description> New England Bay, Port Logan, Stranraer, Dumfries &amp; Galloway, DG9 9NX, Scotland, 01776 860275</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1452">
+                <coordinates>-4.92142,54.73784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1455">
+            <name>Yellowcraig Caravan Club Site</name>
+            <phoneNumber>01620 850217</phoneNumber>
+            <description> Yellowcraig, Dirleton, East Lothian, EH39 5DS, Scotland, 01620 850217</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1454">
+                <coordinates>-2.77888,56.05828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1457">
+            <name>Morvich Caravan Club Site</name>
+            <phoneNumber>01599 511354</phoneNumber>
+            <description> Morvich, Inverinate, Kyle, Highlands, IV40 8HQ, Scotland, 01599 511354</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1456">
+                <coordinates>-5.38087,57.235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1459">
+            <name>Maragowan Caravan Club Site</name>
+            <phoneNumber>01567 820245</phoneNumber>
+            <description> Maragowan Aberfeldy Road, Killin, Stirling, FK21 8TN, Scotland, 01567 820245</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1458">
+                <coordinates>-4.321643,56.473438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1461">
+            <name>The Woods Caravan Park</name>
+            <phoneNumber>01259 762802</phoneNumber>
+            <description> The Woods, Diverswell Farm, Fishcross, Alloa, Stirling, FK10 3AN, Scotland, 01259 762802</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1460">
+                <coordinates>-3.78244,56.14178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1463">
+            <name>Dockray Meadow Caravan Club Site</name>
+            <phoneNumber>01946 861357</phoneNumber>
+            <description> Dockray Meadow, Lamplugh, Cumbria, CA14 4SH, England, 01946 861357</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1462">
+                <coordinates>-3.41841,54.5707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1465">
+            <name>Dornafield Touring Park</name>
+            <phoneNumber>01803 812732</phoneNumber>
+            <description> Dornafield, Two Mile Oak, Newton Abbot, Devon, TQ12 6DD, England, 01803 812732</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1464">
+                <coordinates>-3.638421,50.502141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1467">
+            <name>Ilfracombe Caravan Club Site</name>
+            <phoneNumber>01271 862848</phoneNumber>
+            <description> Ilfracombe, West Down, Ilfracombe, Devon, EX34 8NE, England, 01271 862848</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1466">
+                <coordinates>-4.12045,51.167091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1469">
+            <name>Lydford Caravan and Camping Park</name>
+            <phoneNumber>01822 820497</phoneNumber>
+            <description> Lydford, Lydford, Okehampton, Devon, EX20 4BE, England, 01822 820497</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1468">
+                <coordinates>-4.107337,50.649331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1471">
+            <name>Plymouth Sound Caravan Club Site</name>
+            <phoneNumber>01752 862325</phoneNumber>
+            <description> Plymouth Sound, Bovisand Lane, Down Thomas, Plymouth, Devon, PL9 0AE, England, 01752 862325</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1470">
+                <coordinates>-4.106191,50.334409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1473">
+            <name>Carnon Downs Caravan and Motorhome Club Site</name>
+            <phoneNumber>01872 862283</phoneNumber>
+            <description> Carnon Downs Carnon Downs, Truro, Cornwall, TR3 6JJ, England, 01872 862283</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1472">
+                <coordinates>-5.080747,50.225144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1475">
+            <name>Marazion Caravan Club Site</name>
+            <phoneNumber>01736 710723</phoneNumber>
+            <description> Marazion, St Hilary, Penzance, Cornwall, TR20 9DU, England, 01736 710723</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1474">
+                <coordinates>-5.430604,50.135325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1477">
+            <name>St Agnes Beacon Caravan Club Site</name>
+            <phoneNumber>01872 552543</phoneNumber>
+            <description> St Agnes Beacon, Beacon Drive, St Agnes, Cornwall, TR5 0NU, England, 01872 552543</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1476">
+                <coordinates>-5.225591,50.307628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1479">
+            <name>Wooda Farm Holiday Park</name>
+            <phoneNumber>01288 352069</phoneNumber>
+            <description> Wooda Farm, Poughill, Bude, Cornwall, EX23 9HJ, England, 01288 352069</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1478">
+                <coordinates>-4.518238,50.844145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1481">
+            <name>Fields End Water Caravan Park and Fishery</name>
+            <phoneNumber>01354 740199</phoneNumber>
+            <description> Fields End Water, Benwick Road, Doddington, March, Cambridgeshire, PE15 0TY, England, 01354 740199</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1480">
+                <coordinates>0.030552,52.498511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1483">
+            <name>Stamford Caravan Club Site</name>
+            <phoneNumber>01780 444617</phoneNumber>
+            <description> Stamford, Fineshade, Stamford, Lincolnshire, NN17 3BB, England, 01780 444617</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1482">
+                <coordinates>-0.55679,52.57463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1485">
+            <name>Nunnykirk Caravan Club Site</name>
+            <phoneNumber>01669 620762</phoneNumber>
+            <description> Nunnykirk, Nunnykirk, Morpeth, Northumberland, NE61 4PZ, England, 01669 620762</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1484">
+                <coordinates>-1.89324,55.23327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1487">
+            <name>Royal Vale Caravan Park</name>
+            <phoneNumber>01565 722355</phoneNumber>
+            <description> Royal Vale, London Road, Allostock, Knutsford, Cheshire, WA16 9JD, England, 01565 722355</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1486">
+                <coordinates>-2.369136,53.251025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1489">
+            <name>High Onn Caravan Club Site</name>
+            <phoneNumber>01785 840141</phoneNumber>
+            <description> High Onn, Church Eaton, Stafford, Staffordshire, ST20 0AX, England, 01785 840141</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1488">
+                <coordinates>-2.25184,52.73777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1491">
+            <name>Northbrook Farm Caravan Club Site</name>
+            <phoneNumber>01903 502962</phoneNumber>
+            <description> Northbrook Farm, Titnore Way, Worthing, West Sussex, BN13 3RT, England, 01903 502962</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1490">
+                <coordinates>-0.43341,50.83008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1493">
+            <name>Smedmore House Caravan Club Site</name>
+            <phoneNumber>01929 480702</phoneNumber>
+            <description> Smedmore House, Kimmeridge, Wareham, Dorset, BH20 5PG, England, 01929 480702</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1492">
+                <coordinates>-2.10922,50.60805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1495">
+            <name>Wood Farm Caravan Park</name>
+            <phoneNumber>01297 560697</phoneNumber>
+            <description> Wood Farm, Axminster Road, Charmouth, Dorset, DT6 6BT, England, 01297 560697</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1494">
+                <coordinates>-2.91343,50.74265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1497">
+            <name>Bath Chew Valley Caravan Park</name>
+            <phoneNumber>01275 332127</phoneNumber>
+            <description> Bath Chew Valley, Ham Lane, Bishop Sutton, Bath, Somerset, BS39 5TZ, England, 01275 332127</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1496">
+                <coordinates>-2.5972,51.3369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1499">
+            <name>Love2Stay</name>
+            <phoneNumber>01743 583124</phoneNumber>
+            <description> Love2Stay, Emstrey, Shrewsbury, Shropshire, SY5 6QS, England, 01743 583124</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1498">
+                <coordinates>-2.7094331,52.691463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1501">
+            <name>Knaresborough Caravan Club Site</name>
+            <phoneNumber>01423 860196</phoneNumber>
+            <description> Knaresborough, New Road, Scotton, Knaresborough, North Yorkshire, HG5 9HH, England, 01423 860196</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1500">
+                <coordinates>-1.501564,54.02373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1503">
+            <name>Fleming's White Bridge Caravan and Camping Park</name>
+            <phoneNumber> 00353 86 3630266</phoneNumber>
+            <description> Fleming's White Bridge Ballycasheen Road, Killarney, Co Kerry, Republic of Ireland,  00353 86 3630266</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1502">
+                <coordinates>-9.47592,52.05711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1505">
+            <name>Glen of Aherlow Caravan and Camping Park</name>
+            <phoneNumber> 87 2533869</phoneNumber>
+            <description> Glen of Aherlow, Glen of Aherlow, Co Tipperary, E34 NH58, Republic of Ireland,  87 2533869</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1504">
+                <coordinates>-8.187867,52.4419981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1507">
+            <name>Steamer Quay Caravan Club Site</name>
+            <phoneNumber>01803 862738</phoneNumber>
+            <description> Steamer Quay, Steamer Quay Road, Totnes, Devon, TQ9 5AL, England, 01803 862738</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1506">
+                <coordinates>-3.68078,50.429265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1509">
+            <name>Commons Wood Caravan Club Site</name>
+            <phoneNumber>01707 260786</phoneNumber>
+            <description> Commons Wood, Ascots Lane, Welwyn Garden City, Hertfordshire, AL7 4HJ, England, 01707 260786</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1508">
+                <coordinates>-0.189203,51.780297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1511">
+            <name>Clumber Park Caravan Club Site</name>
+            <phoneNumber>01909 484758</phoneNumber>
+            <description> Clumber Park, Lime Tree Avenue, Clumber Park, Worksop, Nottinghamshire, S80 3AE, England, 01909 484758</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1510">
+                <coordinates>-1.06113,53.28223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1513">
+            <name>Cirencester Park Caravan Club Site</name>
+            <phoneNumber>01285 651546</phoneNumber>
+            <description> Cirencester Park, Stroud Road, Cirencester, Gloucestershire, GL7 1UT, England, 01285 651546</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1512">
+                <coordinates>-1.98403,51.71418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1515">
+            <name>Trewethett Farm Caravan Club Site</name>
+            <phoneNumber>01840 770222</phoneNumber>
+            <description> Trewethett Farm, Trethevy, Tintagel, Cornwall, PL34 0BQ, England, 01840 770222</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1514">
+                <coordinates>-4.72723,50.67399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1517">
+            <name>Chatsworth Park Caravan Club Site</name>
+            <phoneNumber>01246 582226</phoneNumber>
+            <description> Chatsworth Park, Baslow, Bakewell, Derbyshire, DE45 1PN, England, 01246 582226</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1516">
+                <coordinates>-1.6195,53.24613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1519">
+            <name>Troutbeck Head Caravan Club Site</name>
+            <phoneNumber>01768 483521</phoneNumber>
+            <description> Troutbeck Head, Troutbeck, Penrith, Cumbria, CA11 0SS, England, 01768 483521</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1518">
+                <coordinates>-2.95618,54.6161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1521">
+            <name>White House Beach Caravan Club Site</name>
+            <phoneNumber>01502 740278</phoneNumber>
+            <description> White House Beach, Kessingland, Lowestoft, Suffolk, NR33 7RW, England, 01502 740278</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1520">
+                <coordinates>1.72665,52.41099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1523">
+            <name>Wyatts Covert Caravan Club Site</name>
+            <phoneNumber>01895 832729</phoneNumber>
+            <description> Wyatts Covert, Tilehouse Lane, Denham, Uxbridge, Buckinghamshire, UB9 5DH, England, 01895 832729</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1522">
+                <coordinates>-0.50826,51.5934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1525">
+            <name>Burford Caravan Club Site</name>
+            <phoneNumber>01993 823080</phoneNumber>
+            <description> Burford, Bradwell Grove, Burford, Oxfordshire, OX18 4JJ, England, 01993 823080</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1524">
+                <coordinates>-1.64866,51.7769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1527">
+            <name>Broadway Caravan Club Site</name>
+            <phoneNumber>01386 858786</phoneNumber>
+            <description> Broadway, Station Road, Broadway, Worcestershire, WR12 7DH, England, 01386 858786</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1526">
+                <coordinates>-1.87438,52.0413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1529">
+            <name>Brighton Caravan Club Site</name>
+            <phoneNumber>01273 626546</phoneNumber>
+            <description> Brighton, East Brighton Park, Brighton, East Sussex, BN2 5TS, England, 01273 626546</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1528">
+                <coordinates>-0.09737,50.82229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1531">
+            <name>Bridlington Caravan Club Site</name>
+            <phoneNumber>01262 672707</phoneNumber>
+            <description> Bridlington, Flamborough Road, Sewerby, Bridlington, East Riding, YO15 1DU, England, 01262 672707</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1530">
+                <coordinates>-0.159216,54.1131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1533">
+            <name>Blackpool South Caravan Club Site</name>
+            <phoneNumber>01253 762051</phoneNumber>
+            <description> Blackpool South, Cropper Road, Marton, Blackpool, Lancashire, FY4 5LB, England, 01253 762051</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1532">
+                <coordinates>-2.99829,53.78929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1535">
+            <name>Black Horse Farm Caravan Club Site</name>
+            <phoneNumber>01303 892665</phoneNumber>
+            <description> Black Horse Farm, 385 Canterbury Road, Densole, Kent, CT18 7BG, England, 01303 892665</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1534">
+                <coordinates>1.15716,51.13307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1537">
+            <name>Bearsted Caravan Club Site</name>
+            <phoneNumber>01622 730018</phoneNumber>
+            <description> Bearsted, Ashford Road, Hollingbourne, Maidstone, Kent, ME17 1XH, England, 01622 730018</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1536">
+                <coordinates>0.6037,51.2641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1539">
+            <name>Start Bay Caravan Club Site</name>
+            <phoneNumber>01548 580430</phoneNumber>
+            <description> Start Bay, Stokenham, Kingsbridge, Devon, TQ7 2SE, England, 01548 580430</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1538">
+                <coordinates>-3.665011,50.27213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1541">
+            <name>York Rowntree Park Caravan Club Site</name>
+            <phoneNumber>01904 658997</phoneNumber>
+            <description> York Rowntree Park, Terry Avenue, York, North Yorkshire, YO23 1JQ, England, 01904 658997</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1540">
+                <coordinates>-1.0809,53.95066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1543">
+            <name>Coniston Park Coppice Caravan Club Site</name>
+            <phoneNumber>01539 441555</phoneNumber>
+            <description> Coniston Park Coppice, Park Gate, Coniston, Cumbria, LA21 8LA, England, 01539 441555</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1542">
+                <coordinates>-3.08354,54.35311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1545">
+            <name>Morn Hill Caravan Club Site</name>
+            <phoneNumber>01962 869877</phoneNumber>
+            <description> Morn Hill, Alresford Road, Winchester, Hampshire, SO21 1HL, England, 01962 869877</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1544">
+                <coordinates>-1.25846,51.06208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1547">
+            <name>New Forest Caravan Club Centenary Site</name>
+            <phoneNumber>01425 673638</phoneNumber>
+            <description> New Forest, Forest Road, Bransgore, Hampshire, BH23 8EB, England, 01425 673638</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1546">
+                <coordinates>-1.70439,50.78581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1549">
+            <name>Henley Four Oaks Caravan Club Site</name>
+            <phoneNumber>01491 572312</phoneNumber>
+            <description> Henley Four Oaks, Marlow Road, Henley-on-Thames, Oxfordshire, RG9 2HY, England, 01491 572312</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1548">
+                <coordinates>-0.90285,51.54952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1551">
+            <name>Aberbran Caravan Club Site</name>
+            <phoneNumber>01874 622424</phoneNumber>
+            <description> Aberbran, Aberbran, Brecon, Powys, LD3 9NH, Wales, 01874 622424</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1550">
+                <coordinates>-3.480563,51.95421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1553">
+            <name>Godrevy Park Caravan Club Site</name>
+            <phoneNumber>01736 753100</phoneNumber>
+            <description> Godrevy Park, Upton Towans, Hayle, Cornwall, TR27 5BL, England, 01736 753100</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1552">
+                <coordinates>-5.389974,50.213745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1555">
+            <name>Lady Margaret's Park Caravan Club Site</name>
+            <phoneNumber>01691 777200</phoneNumber>
+            <description> Lady Margaret's Park, Chirk, Wrexham, Wrexham, LL14 5AA, Wales, 01691 777200</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1554">
+                <coordinates>-3.06899,52.92975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1557">
+            <name>Hurn Lane Caravan Club Site</name>
+            <phoneNumber>01278 751412</phoneNumber>
+            <description> Hurn Lane, Berrow, Burnham-on-Sea, Somerset, TA8 2QT, England, 01278 751412</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1556">
+                <coordinates>-3.00685,51.27741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1559">
+            <name>Uttoxeter Racecourse Caravan Club Site</name>
+            <phoneNumber>01889 564172</phoneNumber>
+            <description> Uttoxeter Racecourse, Wood Lane, Uttoxeter, Staffordshire, ST14 8BD, England, 01889 564172</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1558">
+                <coordinates>-1.85212,52.89522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1561">
+            <name>Littlehampton Caravan Club Site</name>
+            <phoneNumber>01903 716176</phoneNumber>
+            <description> Littlehampton, Mill Lane, Wick, Littlehampton, West Sussex, BN17 7PH, England, 01903 716176</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1560">
+                <coordinates>-0.54292,50.82767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1563">
+            <name>Norfolk Broads Caravan Club Site</name>
+            <phoneNumber>01692 630357</phoneNumber>
+            <description> Norfolk Broads, Johnson Street, Ludham, Great Yarmouth, Norfolk, NR29 5NY, England, 01692 630357</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1562">
+                <coordinates>1.51371,52.70036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1565">
+            <name>Great Yarmouth Racecourse Caravan Club Site</name>
+            <phoneNumber>01493 855223</phoneNumber>
+            <description> Great Yarmouth, Jellicoe Road, Great Yarmouth, Norfolk, NR30 4AU, England, 01493 855223</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1564">
+                <coordinates>1.7332,52.628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1567">
+            <name>Malvern Hills Caravan Club Site</name>
+            <phoneNumber>01684 310505</phoneNumber>
+            <description> Malvern Hills, Blackmore End, Hanley Swan, Worcester, Worcestershire, WR8 0EE, England, 01684 310505</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1566">
+                <coordinates>-2.27805,52.09647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1569">
+            <name>Fairlight Wood Caravan Club Site</name>
+            <phoneNumber>01424 812333</phoneNumber>
+            <description> Fairlight Wood, Watermill Lane, Pett, Hastings, East Sussex, TN35 4HY, England, 01424 812333</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1568">
+                <coordinates>0.65055,50.89678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1571">
+            <name>Incleboro Fields Caravan Club Site</name>
+            <phoneNumber>01263 837419</phoneNumber>
+            <description> Incleboro Fields, Station Close, West Runton, Cromer, Norfolk, NR27 9QG, England, 01263 837419</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1570">
+                <coordinates>1.25247,52.93395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1573">
+            <name>Exeter Racecourse Caravan Club Site</name>
+            <phoneNumber>01392 832107</phoneNumber>
+            <description> Exeter Racecourse, Kennford, Exeter, Devon, EX6 7XS, England, 01392 832107</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1572">
+                <coordinates>-3.559329,50.642037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1575">
+            <name>Southport Caravan Club Site</name>
+            <phoneNumber>01704 565214</phoneNumber>
+            <description> Southport, The Esplanade, Southport, Merseyside, PR8 1RX, England, 01704 565214</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1574">
+                <coordinates>-3.02444,53.64131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1577">
+            <name>Salisbury Hillside Caravan Club Site</name>
+            <phoneNumber>01980 862527</phoneNumber>
+            <description> Salisbury Hillside, Andover Road, Lopcombe Corner, Salisbury, Wiltshire, SP5 1BY, England, 01980 862527</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1576">
+                <coordinates>-1.6347,51.12178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1579">
+            <name>Poolsbrook Country Park Caravan Club Site</name>
+            <phoneNumber>01246 470659</phoneNumber>
+            <description> Poolsbrook Country Park, Pavilion Drive, Staveley, Chesterfield, Derbyshire, S43 3WL, England, 01246 470659</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1578">
+                <coordinates>-1.352283,53.257986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1581">
+            <name>Ramslade Caravan Club Site</name>
+            <phoneNumber>01803 782575</phoneNumber>
+            <description> Ramslade, Stoke Road, Stoke Gabriel, Totnes, Devon, TQ9 6QB, England, 01803 782575</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1580">
+                <coordinates>-3.613171,50.412981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1583">
+            <name>Shawsmead Caravan Club Site</name>
+            <phoneNumber>01545 580423</phoneNumber>
+            <description> Shawsmead, Oakford, Llanarth, Ceredigion, SA47 0RN, Wales, 01545 580423</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1582">
+                <coordinates>-4.27134,52.19703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1585">
+            <name>Damage Barton Caravan Club Site</name>
+            <phoneNumber>01271 870502</phoneNumber>
+            <description> Damage Barton, Mortehoe Station Road, Mortehoe, Woolacombe, Devon, EX34 7EJ, England, 01271 870502</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1584">
+                <coordinates>-4.188721,51.183998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1587">
+            <name>Stanmore Hall Touring Park</name>
+            <phoneNumber>01746 761761</phoneNumber>
+            <description> Stanmore Hall, Stourbridge Road, Bridgnorth, Shropshire, WV15 6DT, England, 01746 761761</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1586">
+                <coordinates>-2.37832,52.52705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1589">
+            <name>Ludlow Touring Park</name>
+            <phoneNumber>01584 878788</phoneNumber>
+            <description> Ludlow, Overton Road, Ludlow, Shropshire, SY8 4AD, England, 01584 878788</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1588">
+                <coordinates>-2.714524,52.341034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1591">
+            <name>Drumaheglis Marina and Caravan Park</name>
+            <phoneNumber> 02870 347034</phoneNumber>
+            <description> Drumaheglis 36 Glenstall Road, Ballymoney, Co Antrim, BT53 7QN, Northern Ireland,  02870 347034</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1590">
+                <coordinates>-6.58781,55.06673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1593">
+            <name>Tanner Farm Touring Caravan and Camping Park</name>
+            <phoneNumber>01622 832399</phoneNumber>
+            <description> Tanner Farm Park, Goudhurst Road, Marden, Tonbridge, Kent, TN12 9ND, England, 01622 832399</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1592">
+                <coordinates>0.47578,51.14751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1595">
+            <name>Castleton Caravan Club Site</name>
+            <phoneNumber>01433 620636</phoneNumber>
+            <description> Castleton, Castleton, Derbyshire, S33 8WB, England, 01433 620636</description>
+            <styleUrl>#1199</styleUrl>
+            <Point id="1594">
+                <coordinates>-1.76752,53.34784,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

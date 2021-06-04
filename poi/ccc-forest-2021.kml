@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18">
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="23">
+            <name>&quot;Ashurst  New Forest SO40 7AR</name>
+            <phoneNumber>02380 292097</phoneNumber>
+            <description>&quot;Ashurst  New Forest SO40 7AR, 02380 292097</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="22">
+                <coordinates>-1.530129,50.889452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>&quot;Bracelands  Forest of Dean GL16 7NP</name>
+            <phoneNumber>01594 837258</phoneNumber>
+            <description>&quot;Bracelands  Forest of Dean GL16 7NP, 01594 837258</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="24">
+                <coordinates>-2.624735,51.812785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>&quot;Cashel  Loch Lomond G63 0AW</name>
+            <phoneNumber>01360 870234</phoneNumber>
+            <description>&quot;Cashel  Loch Lomond G63 0AW, 01360 870234</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="26">
+                <coordinates>-4.58117,56.11245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>&quot;Cobleland  Trossachs FK8 3RR</name>
+            <phoneNumber>01877 382392</phoneNumber>
+            <description>&quot;Cobleland  Trossachs FK8 3RR, 01877 382392</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="28">
+                <coordinates>-4.366124,56.158363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>&quot;Denny Wood  New Forest SO43 7FZ</name>
+            <phoneNumber>02380 293144</phoneNumber>
+            <description>&quot;Denny Wood  New Forest SO43 7FZ, 02380 293144</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="30">
+                <coordinates>-1.526756,50.86117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>&quot;Glenmore  Cairngorms PH22 1QU</name>
+            <phoneNumber>01479 861271</phoneNumber>
+            <description>&quot;Glenmore  Cairngorms PH22 1QU, 01479 861271</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="32">
+                <coordinates>-3.694239,57.167368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>&quot;Hollands Wood  New Forest SO42 7QH</name>
+            <phoneNumber>01590 622967</phoneNumber>
+            <description>&quot;Hollands Wood  New Forest SO42 7QH, 01590 622967</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="34">
+                <coordinates>-1.571802,50.829241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>&quot;Holmsley  New Forest BH23 8EB</name>
+            <phoneNumber>01425 674502</phoneNumber>
+            <description>&quot;Holmsley  New Forest BH23 8EB, 01425 674502</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="36">
+                <coordinates>-1.705375,50.792885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>&quot;Longbeech  New Forest SO43 7HH</name>
+            <phoneNumber>02380 812740</phoneNumber>
+            <description>&quot;Longbeech  New Forest SO43 7HH, 02380 812740</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="38">
+                <coordinates>-1.649765,50.914578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>&quot;Matley Wood  New Forest SO43 7FZ</name>
+            <phoneNumber>02380 293144</phoneNumber>
+            <description>&quot;Matley Wood  New Forest SO43 7FZ, 02380 293144</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="40">
+                <coordinates>-1.534645,50.865636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>&quot;Ocknell  New Forest SO43 7HH</name>
+            <phoneNumber>02380 812740</phoneNumber>
+            <description>&quot;Ocknell  New Forest SO43 7HH, 02380 812740</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="42">
+                <coordinates>-1.64203,50.906916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>&quot;Postern Hill  Wiltshire SN8 4ND</name>
+            <phoneNumber>01672 515195</phoneNumber>
+            <description>&quot;Postern Hill  Wiltshire SN8 4ND, 01672 515195</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="44">
+                <coordinates>-1.717998,51.40972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>&quot;Roundhill  New Forest SO42 7QL</name>
+            <phoneNumber>01590 624344</phoneNumber>
+            <description>&quot;Roundhill  New Forest SO42 7QL, 01590 624344</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="46">
+                <coordinates>-1.534923333,50.82114833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>&quot;Setthorns  New Forest BH25 5WA</name>
+            <phoneNumber>01590 681020</phoneNumber>
+            <description>&quot;Setthorns  New Forest BH25 5WA, 01590 681020</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="48">
+                <coordinates>-1.627531667,50.80234167,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

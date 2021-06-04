@@ -1,0 +1,2814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1300">
+        <Style id="1301">
+            <IconStyle id="1302">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="1303">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/purple-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="1305">
+            <name>La Masseria</name>
+            <phoneNumber>0039 0833 202295</phoneNumber>
+            <description> La Masseria, Tenuta di Torre Sabae, Gallipoli 73014, Italy, 0039 0833 202295</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1304">
+                <coordinates>18.010031,40.072905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>Caravan Park Sexten</name>
+            <phoneNumber>0039 0474 710444</phoneNumber>
+            <description> Caravan Park Sexten, Via San Giuseppe 54, Sesto, 39030, Italy, 0039 0474 710444</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1306">
+                <coordinates>12.399548,46.667839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>Citta di Bologna</name>
+            <phoneNumber>0039 0513 250 16</phoneNumber>
+            <description> Citta di Bologna, Via Romita 12, Bologna, 40127, Italy, 0039 0513 250 16</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1308">
+                <coordinates>11.37388,44.52333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>Fontanelle</name>
+            <phoneNumber>0039 0365502079</phoneNumber>
+            <description> 0033 565 61 01 07, Fontanelle, Via del Magone 13, Moniga del Garda, 25080, Italy, 0039 0365502079</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1310">
+                <coordinates>10.54333,45.52555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>Fornella</name>
+            <phoneNumber>0039 0365 62 294</phoneNumber>
+            <description> Fornella, Via Fornella 1, San Felice del Benaco, 25010, Italy, 0039 0365 62 294</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1312">
+                <coordinates>10.56583,45.585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>I Pini</name>
+            <phoneNumber>0039 07654 53349</phoneNumber>
+            <description> I Pini, Via Delle Sassette 28, Fiano Romano (Roma), 65, Italy, 0039 07654 53349</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1314">
+                <coordinates>12.57679,42.1516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>La Riva</name>
+            <phoneNumber>0039 0344 94571</phoneNumber>
+            <description> La Riva, Via Poncione 3, Sorico (Como), 22010, Italy, 0039 0344 94571</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1316">
+                <coordinates>9.39302,46.17152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>Le Cormoran</name>
+            <phoneNumber>0033 233 41 33 94</phoneNumber>
+            <description> Le Cormoran, 2 Le Cormoran, Ravenoville Plage, 50480, France, 0033 233 41 33 94</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1318">
+                <coordinates>-1.2354,49.4665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>Le Grand Large</name>
+            <phoneNumber>0033 233 52 40 75</phoneNumber>
+            <description> Le Grand Large, 11 Route de Grand Large, Les Pieux, 50340, France, 0033 233 52 40 75</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1320">
+                <coordinates>-1.84194,49.49444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>Le Point du Jour</name>
+            <phoneNumber> 231 24 23 34</phoneNumber>
+            <description> Le Point du Jour, Route de Cabourg, Merville-Franceville-Plage, 14810, France,  231 24 23 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1322">
+                <coordinates>-0.191499,49.283176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1325">
+            <name>Port�Land</name>
+            <phoneNumber>0033 231 51 07 06</phoneNumber>
+            <description> Port�Land, Chemin du Castel, Port-en-Bessin-Huppain, 14520, France, 0033 231 51 07 06</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1324">
+                <coordinates>-0.77126,49.34673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1327">
+            <name>Risle-Seine les Etangs</name>
+            <phoneNumber>0033 232 42 46 65</phoneNumber>
+            <description> Risle-Seine les Etangs, 19 Route des Etangs, Toutainville, Pont-Audemer, 27500, France, 0033 232 42 46 65</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1326">
+                <coordinates>0.48651,49.36673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1329">
+            <name>Riva Bella</name>
+            <phoneNumber>0033 2 31 97 12 66</phoneNumber>
+            <description> Riva Bella, Rue de la Haie Breton, Ouistreham, 14150, France, 0033 2 31 97 12 66</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1328">
+                <coordinates>-0.254969,49.268901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1331">
+            <name>Ch�teau le Verdoyer</name>
+            <phoneNumber>0033 553 56 94 64</phoneNumber>
+            <description> Ch�teau le Verdoyer, Champs Romain, 24470, France, 0033 553 56 94 64</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1330">
+                <coordinates>0.79472,45.55138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1333">
+            <name>Col d�Ibardin</name>
+            <phoneNumber>0033 55 95 43 121</phoneNumber>
+            <description> Col d�Ibardin, 220 Route d�Olhette, Urrugne, 64122, France, 0033 55 95 43 121</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1332">
+                <coordinates>-1.684531,43.334025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1335">
+            <name>Le Brasilia</name>
+            <phoneNumber>0033 468 80 23 82</phoneNumber>
+            <description> Le Brasilia, 2 Avenue Anneaux du Roussillon, Canet-en-Roussillon, 66140, France, 0033 468 80 23 82</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1334">
+                <coordinates>3.0354,42.7077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1337">
+            <name>Domaine de la Dragonni�re</name>
+            <phoneNumber>0033 467 01 03 10</phoneNumber>
+            <description> Domaine de la Dragonni�re, Rd 612, Vias 34450, France, 0033 467 01 03 10</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1336">
+                <coordinates>3.361178,43.311842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1339">
+            <name>Sportcamp Woferlgut</name>
+            <phoneNumber>0043 654 57 30 30</phoneNumber>
+            <description> Sportcamp Woferlgut, Kroessenbach 40, Bruck, 5671, Austria, 0043 654 57 30 30</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1338">
+                <coordinates>12.81602,47.283359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1341">
+            <name>Terrassen Camping Ossiacher See</name>
+            <phoneNumber>0043 42 43 436</phoneNumber>
+            <description> Terrassen Camping Ossiacher See, Ostriach 67, Ossiach, 9570, Austria, 0043 42 43 436</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1340">
+                <coordinates>13.97463,46.66388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1343">
+            <name>Kompas Camping Nieuwpoort</name>
+            <phoneNumber>23 60 37</phoneNumber>
+            <description> Kompas Camping Nieuwpoort, Brugse Steenweg 49, Nieuwpoort, 8620, Belgium, 23 60 37</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1342">
+                <coordinates>2.77037,51.131198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1345">
+            <name>Camping Park Umag</name>
+            <phoneNumber>385 52 713 740</phoneNumber>
+            <description> Camping Park Umag, Ladin gaj 132a, Umag, 52470, Croatia, 385 52 713 740</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1344">
+                <coordinates>13.5375119,45.3748966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <name>Camping Zelena Laguna</name>
+            <phoneNumber>000 00 000 000</phoneNumber>
+            <description> Camping Zelena Laguna, Camping Zelena Laguna, Pore?, 52440, Croatia, 000 00 000 000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1346">
+                <coordinates>13.5890571,45.196111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1349">
+            <name>L'isle Verte</name>
+            <phoneNumber>2 41 51 76 60</phoneNumber>
+            <description> L'isle Verte, Le Camping de l'Isle Verte L'Avenue de la Loire Montsoreau, 49730, , 2 41 51 76 60</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1348">
+                <coordinates>0.05284,47.219205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>La Campi�a</name>
+            <phoneNumber>0034 957 315 303</phoneNumber>
+            <description> La Campi�a, Ctra A-379 km 47.3, La Guijarrosa, C�rdoba, 14547, Spain, 0034 957 315 303</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1350">
+                <coordinates>-4.859389,37.622631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1353">
+            <name>La Rosaleda</name>
+            <phoneNumber>0034 956 44 33 27</phoneNumber>
+            <description> La Rosaleda, Carretera del Pradillo, K.m 1300, Conil de la Frontera, 11140, Spain, 0034 956 44 33 27</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1352">
+                <coordinates>-6.095471,36.293164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1355">
+            <name>La Torre del Sol</name>
+            <phoneNumber>0034 977 81 04 86</phoneNumber>
+            <description> La Torre del Sol, CTRA Nac 340 km 1136, Mont-Roig del Camp, Tarragona, 43300, Spain, 0034 977 81 04 86</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1354">
+                <coordinates>0.97478,41.03807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>L'Amfora</name>
+            <phoneNumber>0034 972 52 05 40</phoneNumber>
+            <description> L'Amfora, Avenida Josep Taradellas 2, Girona, Sant Pere Pescador, 17470, Spain, 0034 972 52 05 40</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1356">
+                <coordinates>3.10403,42.1818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1359">
+            <name>Playa Joyel</name>
+            <phoneNumber>0034 942 630 081</phoneNumber>
+            <description> Playa Joyel, Playa de Ris, Noja, 39180, Spain, 0034 942 630 081</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1358">
+                <coordinates>-3.53636,43.49011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1361">
+            <name>Regio</name>
+            <phoneNumber>0034 923 13 88 88</phoneNumber>
+            <description> Regio, Ctra. Salamanca-Madrid, km 4, Santa Marta de Tormes, Salamanca, 37900, Spain, 0034 923 13 88 88</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1360">
+                <coordinates>-5.61447,40.947779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>Ribamar</name>
+            <phoneNumber>0034 964 761 163</phoneNumber>
+            <description> Ribamar, Partida Ribamar sn, Alcossebre, 12579, Spain, 0034 964 761 163</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1362">
+                <coordinates>0.30652,40.27011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1365">
+            <name>Gemmi</name>
+            <phoneNumber>0041 27 473 11 54</phoneNumber>
+            <description> Gemmi, Briannenstrasse 8, Susten, CH-3952, Switzerland, 0041 27 473 11 54</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1364">
+                <coordinates>7.65944,46.2977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1367">
+            <name>Le Ch�teau de Martragny</name>
+            <phoneNumber>0033 2 31 80 21 40</phoneNumber>
+            <description> Le Chateau de Martragny, 52 Voie Communale Hameau de Saint-L�ger, Martragny, 14740, France, 0033 2 31 80 21 40</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1366">
+                <coordinates>-0.605999,49.243008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>Haliotis</name>
+            <phoneNumber>0033 2 33 68 11 59</phoneNumber>
+            <description> Haliotis, Boulevard Patton, Pontorson, 50170, France, 0033 2 33 68 11 59</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1368">
+                <coordinates>-1.514466,48.55791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1371">
+            <name>Huttopia Calvados-Normandie</name>
+            <phoneNumber>0033 231 63 63 08</phoneNumber>
+            <description> Huttopia Calvados-Normandie, Le Val Sery, Moyaux, 14590, France, 0033 231 63 63 08</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1370">
+                <coordinates>0.3923,49.2086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1373">
+            <name>La C�te de Nacre</name>
+            <phoneNumber>0033 2 31 97 14 45</phoneNumber>
+            <description> La C�te de Nacre, 17 rue du Major General James Moulton, St Aubin sur Mer, 14750, France, 0033 2 31 97 14 45</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1372">
+                <coordinates>-0.390204,49.325653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>L'Aiguille Creuse</name>
+            <phoneNumber>0033 2 35 29 52 10</phoneNumber>
+            <description> L'Aiguille Creuse, Residence l'Aiguille Creuse, Les Loges, 76790, France, 0033 2 35 29 52 10</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1374">
+                <coordinates>0.275922,49.698161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1377">
+            <name>Le Br�vedent</name>
+            <phoneNumber>0033 231 64 72 88</phoneNumber>
+            <description> Le Br�vedent, Route du Pin, Le Brevedent, 14130, France, 0033 231 64 72 88</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1376">
+                <coordinates>0.30233,49.22629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1379">
+            <name>Le Paradis - St L�on</name>
+            <phoneNumber>553507264</phoneNumber>
+            <description> Le Paradis - St L�on, La Reybeyrolle, St Leon sur Vezere, 24290, France, 553507264</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1378">
+                <coordinates>1.0710059,45.001829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>Beau Rivage</name>
+            <phoneNumber>0033 559 66 10 00</phoneNumber>
+            <description> Beau Rivage, Allee des Marronniers, Navarrenx, 64190, France, 0033 559 66 10 00</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1380">
+                <coordinates>-0.762203,43.320256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1383">
+            <name>Huttopia Vallouise</name>
+            <phoneNumber>0033 492 23 30 26</phoneNumber>
+            <description> Huttopia Vallouise, Chemin des Chambonettes, Vallouise, 5290, France, 0033 492 23 30 26</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1382">
+                <coordinates>6.490084,44.8441523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1385">
+            <name>La Vieille Ferme</name>
+            <phoneNumber>0033 493 33 41 44</phoneNumber>
+            <description> La Vieille Ferme, 296 Bd des Groules, Villeneuve Loubet, 6270, France, 0033 493 33 41 44</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1384">
+                <coordinates>7.12555,43.61972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>Domaine de Massereau</name>
+            <phoneNumber>0033 4 66 53 11 20</phoneNumber>
+            <description> Domaine de Massereau, 1990 Route d'Aubais, Sommieres, 30250, France, 0033 4 66 53 11 20</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1386">
+                <coordinates>4.09980219,43.7666294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1389">
+            <name>La Petite Camargue</name>
+            <phoneNumber>0033 466 53 98 98</phoneNumber>
+            <description> La Petite Camargue, D62, Aigues-Mortes, 30220, France, 0033 466 53 98 98</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1388">
+                <coordinates>4.160167,43.564057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1391">
+            <name>Le Haras</name>
+            <phoneNumber>0033 468 22 14 50</phoneNumber>
+            <description> Le Haras, Domaine Sant Galdric, 1 Ter Avenue Joliot Curie, Palau de Vidre, 66690, France, 0033 468 22 14 50</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1390">
+                <coordinates>2.96514,42.5757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1393">
+            <name>Le Mas De Reilhe</name>
+            <phoneNumber>0033 466 77 82 12</phoneNumber>
+            <description> Le Mas De Reilhe, Crespian, 30260, France, 0033 466 77 82 12</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1392">
+                <coordinates>4.0959,43.8785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1395">
+            <name>Les Criques de Porteils</name>
+            <phoneNumber> 468 81 12 73</phoneNumber>
+            <description> Les Criques de Porteils, Corniche de Collioure, Route de la Corniche, Argeles-sur-Mer, 66700, France,  468 81 12 73</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1394">
+                <coordinates>3.070141,42.534911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1397">
+            <name>Camping de Strasbourg</name>
+            <phoneNumber>0033 388 30 19 96</phoneNumber>
+            <description> Camping de Strasbourg, 9 Rue de l'Auberge-de-Jeunesse, Strasbourg, 67200, France, 0033 388 30 19 96</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1396">
+                <coordinates>7.717257,48.575364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1399">
+            <name>Chanteloup</name>
+            <phoneNumber>0033 2 43 27 51 07</phoneNumber>
+            <description> Chanteloup, Chateau De Chanteloup, Chanteloup, Sille le Philippe, 72460, France, 0033 2 43 27 51 07</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1398">
+                <coordinates>0.34012,48.104591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1401">
+            <name>Ch�teau La For�t St Julien des Landes</name>
+            <phoneNumber> 85150</phoneNumber>
+            <description> 3 rue de la Foret, Route de Martinet, Saint Julien des Landes, 85150, France,  85150</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1400">
+                <coordinates>-1.711072,46.641454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1403">
+            <name>Huttopia Lac de Sill� </name>
+            <phoneNumber>0033 243 20 16 12</phoneNumber>
+            <description> Huttopia Lac de Sill� Sill� Plage, Sill�-le-Guillaume, 72140, France, 0033 243 20 16 12</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1402">
+                <coordinates>-0.126713,48.203533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1405">
+            <name>Huttopia Saumur</name>
+            <phoneNumber>0033 241 67 95 34</phoneNumber>
+            <description> Huttopia Saumur, Route De Chantepie, Saumur, 49000, France, 0033 241 67 95 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1404">
+                <coordinates>-0.1412,47.2944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1407">
+            <name>La Guyonni�re</name>
+            <phoneNumber>0033 251 46 62 59</phoneNumber>
+            <description> La Guyonni�re, La Guyonni�re, Saint Julien des Landes, 85150, France, 0033 251 46 62 59</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1406">
+                <coordinates>-1.74999,46.65292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1409">
+            <name>La Mouette Cendr�e</name>
+            <phoneNumber>0033 251 33 59 04</phoneNumber>
+            <description> La Mouette Cendr�e, CD 19 Les Malecots, St Vincent sur Jard, 85520, France, 0033 251 33 59 04</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1408">
+                <coordinates>-1.568,46.4274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1411">
+            <name>La Tr�villi�re</name>
+            <phoneNumber>0033 251 33 05 05</phoneNumber>
+            <description> La Tr�villi�re, Route de Bellevue, Bretignolles sur Mer, 85470, France, 0033 251 33 05 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1410">
+                <coordinates>-1.85861,46.63583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1413">
+            <name>Le Domaine de L'Etang</name>
+            <phoneNumber>0033 241 91 70 61</phoneNumber>
+            <description> Le Domaine de L'Etang, Route de St. Mathurin, Brissac-Quince, 49320, France, 0033 241 91 70 61</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1412">
+                <coordinates>-0.43433,47.35925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1415">
+            <name>Oase Praha</name>
+            <phoneNumber>00420 241 932 044</phoneNumber>
+            <description> Oase Praha, Zlatnicky, Libenska, 25241, Czech Republic, 00420 241 932 044</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1414">
+                <coordinates>14.47455,49.95147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1417">
+            <name>Klein Strand</name>
+            <phoneNumber>0032 508 11 440</phoneNumber>
+            <description> Klein Strand, Varsenareweg 29, Jabbeke, 8490, Belgium, 0032 508 11 440</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1416">
+                <coordinates>3.10445,51.18448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1419">
+            <name>El Molino de Cab�erniga</name>
+            <phoneNumber>0034 942 706 259</phoneNumber>
+            <description> El Molino de Cab�erniga, Sope�a, Cab�erniga, 39510, Spain, 0034 942 706 259</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1418">
+                <coordinates>-4.289666,43.227109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1421">
+            <name>Roche</name>
+            <phoneNumber>0034 956 44 22 16</phoneNumber>
+            <description> Roche, Carril de Pilahito, Cadiz, Conil de la Frontera, 11140, Spain, 0034 956 44 22 16</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1420">
+                <coordinates>-6.11268,36.310889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1423">
+            <name>Los Escullos</name>
+            <phoneNumber>0034 950 389 811</phoneNumber>
+            <description> Los Escullos, Paraje Los Escullos S/N, Nijar, 4118, Spain, 0034 950 389 811</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1422">
+                <coordinates>-2.079081,36.803321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1425">
+            <name>Angeiras</name>
+            <phoneNumber>00 351 229 270 571</phoneNumber>
+            <description> Angeiras, Rua de Angeiras, Angeiras, Lavra, 4455-039, Portugal, 00 351 229 270 571</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1424">
+                <coordinates>-8.72022,41.268487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1427">
+            <name>Villaggio dei Fiori</name>
+            <phoneNumber>184 660635</phoneNumber>
+            <description> Villaggio dei Fiori, Villaggio dei Fiori, Via Tiro a Volo 3, Sanremo, 18038, Italy, 184 660635</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1426">
+                <coordinates>7.745345,43.802393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1429">
+            <name>Cabopino</name>
+            <phoneNumber>0034 952 834 373</phoneNumber>
+            <description> Cabopino, Carretera N340, Km 194,7, Marbella, Malaga, 29604, Spain, 0034 952 834 373</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1428">
+                <coordinates>-4.74294,36.48881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1431">
+            <name>Valdevaqueros</name>
+            <phoneNumber>0034 956 68 41 74</phoneNumber>
+            <description> Valdevaqueros, N-340km, 75.5, Tarifa, C�diz, 11380, Spain, 0034 956 68 41 74</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1430">
+                <coordinates>-5.680494,36.069315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1433">
+            <name>Altomira</name>
+            <phoneNumber>0034 964 713 211</phoneNumber>
+            <description> Altomira, A23 Sagunto Teruel, Salida KM. 33 Carretera CV-213 Navajas KM. 1, Navajas, Castell�n, 12470, Spain, 0034 964 713 211</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1432">
+                <coordinates>-0.510422,39.874918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1435">
+            <name>Arco Iris</name>
+            <phoneNumber>00 34 91 616 03 87</phoneNumber>
+            <description> Arco Iris, Crta. de Boadilla del Monte a Villaviciosa de Odon, Villaviciosa de Odon, 28670, Spain, 00 34 91 616 03 87</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1434">
+                <coordinates>-3.907495,40.381398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1437">
+            <name>Cabo de Gata</name>
+            <phoneNumber>0034 950 160 443</phoneNumber>
+            <description> Cabo de Gata, Ctra. Cabo de Gata s/n, Almeria, Cabo de Gata, 4150, Spain, 0034 950 160 443</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1436">
+                <coordinates>-2.24611,36.80083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1439">
+            <name>Cypsela</name>
+            <phoneNumber>0034 972 667 696</phoneNumber>
+            <description> Cypsela, C/Rodors, 7, Girona, 17256 Pals, Spain, 0034 972 667 696</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1438">
+                <coordinates>3.18196,41.98591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1441">
+            <name>El Mirador de Caba�eros</name>
+            <phoneNumber>00 34 926 775 439</phoneNumber>
+            <description> El Mirador de Caba�eros, Canada Real Segoviana, s/n, Horcajo de los Montes, 13110, Spain, 00 34 926 775 439</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1440">
+                <coordinates>-4.650628,39.323068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1443">
+            <name>La Aldea</name>
+            <phoneNumber>0034 959 442 677</phoneNumber>
+            <description> La Aldea, Ctra El Rocio, km 25, Apartado de Correos no 1, El Rocio, 21750, Spain, 0034 959 442 677</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1442">
+                <coordinates>-6.490626,37.141546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1445">
+            <name>Le Domaine de la Yole Valras-Plage</name>
+            <phoneNumber>0033 467 37 33 87</phoneNumber>
+            <description> Le Domaine de la Yole Valras-Plage, Avenue de la Mediterranee, Vendres, Valras-Plage, 34350, France, 0033 467 37 33 87</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1444">
+                <coordinates>3.2617,43.23675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1447">
+            <name>Ma Prairie</name>
+            <phoneNumber>0033 468 73 26 17</phoneNumber>
+            <description> Ma Prairie, 1 Avenue Des Coteaux, Canet en Roussillon, 66140, France, 0033 468 73 26 17</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1446">
+                <coordinates>2.9985,42.70114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1449">
+            <name>Camping de l'Ill Colmar</name>
+            <phoneNumber>0033 389 41 15 94</phoneNumber>
+            <description> Camping de l'Ill Colmar, 1 all�e du camping, Horbourg - Wihr 68180, France, 0033 389 41 15 94</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1448">
+                <coordinates>7.386363,48.07914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1451">
+            <name>Au Clos de la Chaume</name>
+            <phoneNumber>0033 329 50 76 76</phoneNumber>
+            <description> Au Clos de la Chaume, 21 Rue d'Alsace, Route de Gerardmer, Corcieux, 88430, France, 0033 329 50 76 76</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1450">
+                <coordinates>6.89006,48.16826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1453">
+            <name>Beauregard Mesnois</name>
+            <phoneNumber> 3 84 48 32 51</phoneNumber>
+            <description> Beauregard Mesnois, 2 GRANDS RUE, Mesnois, 39130, France,  3 84 48 32 51</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1452">
+                <coordinates>5.688218,46.600181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1455">
+            <name>La Forge de Sainte Marie</name>
+            <phoneNumber>0033 325 94 42 00</phoneNumber>
+            <description> La Forge de Sainte Marie, RD 427, Thonnance Les Moulins, 52230, France, 0033 325 94 42 00</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1454">
+                <coordinates>5.2711,48.4063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1457">
+            <name>Le Lac d'Orient</name>
+            <phoneNumber>0033 325 40 61 85</phoneNumber>
+            <description> Le Lac d'Orient, Le Lac d'Orient, Rue du Lac, Mesnil-Saint-Pere, 10140, France, 0033 325 40 61 85</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1456">
+                <coordinates>4.34789,48.26334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1459">
+            <name>Huttopia Royat</name>
+            <phoneNumber>0033 473 35 97 05</phoneNumber>
+            <description> Huttopia Royat, Route de Gravenoire, Quartier de L�Od�de, Royat, 63130, France, 0033 473 35 97 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1458">
+                <coordinates>3.05451,45.75857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1461">
+            <name>Au Bois Joli Andryes</name>
+            <phoneNumber>03 86 81 70 48</phoneNumber>
+            <description> Au Bois Joli Andryes, 2 Route de Villeprenoy, Andryes, 89480, France, 03 86 81 70 48</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1460">
+                <coordinates>3.478893,47.518265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1463">
+            <name>Le Pont de Bourgogne</name>
+            <phoneNumber>0033 385 48 26 86</phoneNumber>
+            <description> Le Pont de Bourgogne, Rue Julien Leneveu, Saint Marcel, 71380, France, 0033 385 48 26 86</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1462">
+                <coordinates>4.87227,46.78433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1465">
+            <name>Village des Meuniers</name>
+            <phoneNumber>0033 385 50 36 60</phoneNumber>
+            <description> Village des Meuniers, 344 Rue du Stade Dompierre les Ormes, 71520, France, 0033 385 50 36 60</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1464">
+                <coordinates>4.475116,46.363945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1467">
+            <name>Azur Camping Wertheim</name>
+            <phoneNumber>00 49 9342 83111</phoneNumber>
+            <description> Azur Camping Wertheim, An den Christwiesen 35, Wertheim D - 97877, Germany, 00 49 9342 83111</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1466">
+                <coordinates>9.509096,49.77798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1469">
+            <name>Biggesee</name>
+            <phoneNumber>0049 2761 944 111</phoneNumber>
+            <description> Biggesee, Am Sonderner Kopf 3, Sondern Olpe, 57462, Germany, 0049 2761 944 111</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1468">
+                <coordinates>7.856885,51.0738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1471">
+            <name>Eifel-Camp</name>
+            <phoneNumber>00 49 26 97 2 82</phoneNumber>
+            <description> Eifel-Camp, Am Freilinger See 1, Blankenhiem/Ahr, D 53945, Germany, 00 49 26 97 2 82</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1470">
+                <coordinates>6.718213,50.413527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1473">
+            <name>Kleinenzhof</name>
+            <phoneNumber>7081 3435</phoneNumber>
+            <description> Kleinenzhof, Kleinenzhof 1, Baden Wurttemberg, D 75323, Germany, 7081 3435</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1472">
+                <coordinates>8.576353,48.737798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1475">
+            <name>Belchenblick</name>
+            <phoneNumber>0049 763 370 45</phoneNumber>
+            <description> Belchenblick, Munstertaler STR 43, Staufen, 79219, Germany, 0049 763 370 45</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1474">
+                <coordinates>7.73761,47.87113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1477">
+            <name>Baia Verde</name>
+            <phoneNumber>00 39 0365651753</phoneNumber>
+            <description> Baia Verde, Via dell'Erdera Manerba del Garda BS, 25080, Italy, 00 39 0365651753</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1476">
+                <coordinates>10.55358019,45.56152669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1479">
+            <name>Rio Vantone</name>
+            <phoneNumber>0039 365 83125</phoneNumber>
+            <description> Rio Vantone, Via Vantone, Idro, 25074, Italy, 0039 365 83125</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1478">
+                <coordinates>10.49775,45.753955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1481">
+            <name>Roma Flash</name>
+            <phoneNumber>0039 0699 80 54 58</phoneNumber>
+            <description> Roma Flash, Via Settevene Palo, 19800 1 Tronco, Bracciano, 62, Italy, 0039 0699 80 54 58</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1480">
+                <coordinates>12.1736,42.1295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1483">
+            <name>Village Baia Domizia</name>
+            <phoneNumber>164</phoneNumber>
+            <description> Village Baia Domizia, Sessa Aurunca, Province of Caserta, Baia Domizia, l-81037, Italy, 164</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1482">
+                <coordinates>13.796602,41.201451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1485">
+            <name>Gritt</name>
+            <phoneNumber>00352 80 20 18</phoneNumber>
+            <description> Gritt, 2 Um Gritt, Ingeldorf, 9161, Luxembourg, 00352 80 20 18</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1484">
+                <coordinates>6.13461,49.85043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1487">
+            <name>Camping de Papillon</name>
+            <phoneNumber>31541351670</phoneNumber>
+            <description> Camping de Papillon, Kanaalweg 30, Denekamp, 7591NH, The Netherlands, 31541351670</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1486">
+                <coordinates>7.049092,52.392033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1489">
+            <name>Gulperberg</name>
+            <phoneNumber>0031 43 450 2330</phoneNumber>
+            <description> Gulperberg, Berghem 1, NP Gulpen, 6271, The Netherlands, 0031 43 450 2330</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1488">
+                <coordinates>5.894218,50.806988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1491">
+            <name>Heumens Bos</name>
+            <phoneNumber>0031 24 358 14 81</phoneNumber>
+            <description> Heumens Bos, Vosseneindseweg 46, Heumens Bos, 6582, The Netherlands, 0031 24 358 14 81</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1490">
+                <coordinates>5.819347,51.769432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1493">
+            <name>Ohai Nazar� Outdoor Resort</name>
+            <phoneNumber>00351 262 561 800</phoneNumber>
+            <description> Ohai Nazar� Outdoor Resort, Estrada Nacional 242, Nazar�, 2450-138, Portugal, 00351 262 561 800</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1492">
+                <coordinates>-9.0562786,39.6202616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1495">
+            <name>Parque Cerdeira</name>
+            <phoneNumber>00351 253 351 005</phoneNumber>
+            <description> Parque Cerdeira, Rua de Cerdeira, 400, Campo do Geres, Terras de Bouro, Braga, 4840-030 Portugal, 00351 253 351 005</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1494">
+                <coordinates>-8.189669,41.763783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1497">
+            <name>Ria Formosa</name>
+            <phoneNumber>00351 281 328 887</phoneNumber>
+            <description> Ria Formosa, Quinta da Gomeira, Cabanas de Tavira, 8800-591, Portugal, 00351 281 328 887</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1496">
+                <coordinates>-7.60124,37.144577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1499">
+            <name>Hidden Valley</name>
+            <phoneNumber>867272872</phoneNumber>
+            <description> Hidden Valley, Lower Street, Rathdrum, Wicklow, Republic of Ireland touring caravan sites, 867272872</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1498">
+                <coordinates>-6.227415,52.939338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1501">
+            <name>Glen of Aherlow</name>
+            <phoneNumber>00353 625 65 55</phoneNumber>
+            <description> Glen of Aherlow Newtown, Tipperary, E34 NH58, Republic of Ireland, 00353 625 65 55</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1500">
+                <coordinates>-8.18722,52.42111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1503">
+            <name>Nagles Doolin</name>
+            <phoneNumber>00353 657 07 44 58</phoneNumber>
+            <description> Nagles Doolin, Ballaghaline, Doolin, Co Clare, Republic of Ireland, 00353 657 07 44 58</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1502">
+                <coordinates>-9.40191,53.01665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1505">
+            <name>Pivka Jama</name>
+            <phoneNumber>00 386 57 203993</phoneNumber>
+            <description> Pivka Jama, Veliki Otok 50, Postojna, 6230, Slovenia, 00 386 57 203993</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1504">
+                <coordinates>14.204274,45.805011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1507">
+            <name>Bayona Playa</name>
+            <phoneNumber>34 986 350 035</phoneNumber>
+            <description> Bayona Playa, Playa Ladeira, Avenida Jos� Pereira Troncoso, 2, Bayona, 36393, Spain, 34 986 350 035</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1506">
+                <coordinates>-8.825263,42.113352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1509">
+            <name>Galeb</name>
+            <phoneNumber>00385 21 86 44 30</phoneNumber>
+            <description> Galeb, Vukovarska 7, Omis, 21310, Croatia, 00385 21 86 44 30</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1508">
+                <coordinates>16.681059,43.440517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1511">
+            <name>Bellevue</name>
+            <phoneNumber>0033 2 96 72 33 04</phoneNumber>
+            <description> Bellevue, Route de la Liberation, Erquy, 22430, France, 0033 2 96 72 33 04</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1510">
+                <coordinates>-2.484357,48.59442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1513">
+            <name>Des Abers</name>
+            <phoneNumber>0033 298 04 93 35</phoneNumber>
+            <description> Des Abers, 51 Toull Treaz, Landeda, 29870, France, 0033 298 04 93 35</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1512">
+                <coordinates>-4.60333,48.59333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1515">
+            <name>L�Orangerie de Lanniron </name>
+            <phoneNumber>0033 298 90 62 02</phoneNumber>
+            <description> L�Orangerie de Lanniron, All�e De Lanniron, Quimper, 29000, France, 0033 298 90 62 02</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1514">
+                <coordinates>-4.10778,47.97961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1517">
+            <name>La Hallerais</name>
+            <phoneNumber>0033 296 39 15 93</phoneNumber>
+            <description> La Hallerais, 4 Rue de la Robardais, Taden, 22100, France, 0033 296 39 15 93</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1516">
+                <coordinates>-2.023099,48.471699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1519">
+            <name>Le Ch�teau de Galin�e</name>
+            <phoneNumber>0033 296 41 10 56</phoneNumber>
+            <description> Le Ch�teau de Galin�e, Rue de Galin�e, St Cast, 22380, France, 0033 296 41 10 56</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1518">
+                <coordinates>-2.25691,48.58441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1521">
+            <name>Le Ch�telet</name>
+            <phoneNumber>0033 296 41 96 33</phoneNumber>
+            <description> Le Ch�telet, Rue des Nouettes, Saint-Cast, 22380, France, 0033 296 41 96 33</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1520">
+                <coordinates>-2.26944,48.63726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1523">
+            <name>Le Domaine de la Ville Huchet</name>
+            <phoneNumber>0033 299 81 11 83</phoneNumber>
+            <description> Le Domaine de la Ville Huchet, Route De La Passag�re, Saint Malo, 35400, France, 0033 299 81 11 83</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1522">
+                <coordinates>-1.98715,48.61524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1525">
+            <name>Le Ty Nadan</name>
+            <phoneNumber>0033 298 71 75 47</phoneNumber>
+            <description> Le Ty Nadan, Route D' Arzano, Locunole, 29310, France, 0033 298 71 75 47</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1524">
+                <coordinates>-3.47477,47.90468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1527">
+            <name>Les Iles</name>
+            <phoneNumber>0033 299 90 30 24</phoneNumber>
+            <description> Les Iles, 119 Route Des Trois Iles, La Pointe du Bile, Penestin, 56760, France, 0033 299 90 30 24</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1526">
+                <coordinates>-2.4839,47.4453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1529">
+            <name>Les Mouettes</name>
+            <phoneNumber>0033 298 67 02 46</phoneNumber>
+            <description> Les Mouettes, 50 Route de la Grande Greve, Carantec, 29660, France, 0033 298 67 02 46</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1528">
+                <coordinates>-3.92885,48.6589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1531">
+            <name>Man� Guernehu�</name>
+            <phoneNumber>0033 297 57 02 06</phoneNumber>
+            <description> Man� Guernehu�, 52 Rue Man� er Gro�z, Baden, 56870, France, 0033 297 57 02 06</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1530">
+                <coordinates>-2.92596,47.61419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1533">
+            <name>Penboch</name>
+            <phoneNumber>0033 297 44 71 29</phoneNumber>
+            <description> Penboch, 9 Chemin de Penboch, Arradon, 56610, France, 0033 297 44 71 29</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1532">
+                <coordinates>-2.80056,47.6219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1535">
+            <name>Le Mont des Bruyeres</name>
+            <phoneNumber>3 27 48 56 87</phoneNumber>
+            <description> Le Mont des Bruyeres, 806 Rue Emile Basly, St Amand des Eaux, 59230, France, 3 27 48 56 87</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1534">
+                <coordinates>3.463247,50.434662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1537">
+            <name>Huttopia Rambouillet</name>
+            <phoneNumber>0033 130 41 07 34</phoneNumber>
+            <description> Huttopia Rambouillet, Route du Ch�teau-d�Eau Rambouillet, 78120, France, 0033 130 41 07 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1536">
+                <coordinates>1.845557,48.626823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1539">
+            <name>Maisons Laffitte</name>
+            <phoneNumber> 1 39 12 21 91</phoneNumber>
+            <description> Maisons Laffitte, 1 rue Johnson, Maisons Laffitte, 78600, France,  1 39 12 21 91</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1538">
+                <coordinates>2.145781,48.939844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1541">
+            <name>La For�t Jumi�ges</name>
+            <phoneNumber>0033 235 37 93 43</phoneNumber>
+            <description> La For�t Jumi�ges, Rue Mainberte, Jumieges, 76480, France, 0033 235 37 93 43</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1540">
+                <coordinates>0.8297,49.4349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1543">
+            <name>Domaine des Mathevies</name>
+            <phoneNumber>0033 553 59 20 86</phoneNumber>
+            <description> Domaine des Mathevies, Les Mathevies, Sainte-Nathal�ne, Sarlat, 24200, France, 0033 553 59 20 86</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1542">
+                <coordinates>1.27777,44.91805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1545">
+            <name>Eurosol Camping Club</name>
+            <phoneNumber>0033 558 47 90 14</phoneNumber>
+            <description> Eurosol Camping Club, Route de la Plage, St-Girons-Plage, Vielle-St-Girons, 40560, France, 0033 558 47 90 14</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1544">
+                <coordinates>-1.351883,43.951932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1547">
+            <name>Le Col Vert</name>
+            <phoneNumber>0033 5 58 42 94 06</phoneNumber>
+            <description> Le Col Vert, Le Lac, 1548 Route de l'Etang, Vielle St Girons, 40560, France, 0033 5 58 42 94 06</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1546">
+                <coordinates>-1.3103,43.9026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1549">
+            <name>Le Domaine de Soleil Plage</name>
+            <phoneNumber>0033 553 28 33 33</phoneNumber>
+            <description> Le Domaine de Soleil Plage, Caudon, Vitrac, Sarlat, 24200, France, 0033 553 28 33 33</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1548">
+                <coordinates>1.2536,44.82525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1551">
+            <name>Le Moulin Du Roch</name>
+            <phoneNumber>0033 553 59 20 27</phoneNumber>
+            <description> Le Moulin Du Roch, Le Roch, Allas, Route Des Eyzies, Sarlat, 24200, France, 0033 553 59 20 27</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1550">
+                <coordinates>1.1149,44.9085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1553">
+            <name>Le Vieux Port </name>
+            <phoneNumber>0033 558 48 22 00</phoneNumber>
+            <description> Le Vieux Port Plage Sud, Messanges, 40660, France, 0033 558 48 22 00</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1552">
+                <coordinates>-1.40164,43.79794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1555">
+            <name>Moulin de Campech</name>
+            <phoneNumber>0033 553 88 72 43</phoneNumber>
+            <description> Moulin de Campech, Villefranche du Queyran, 47160, France, 0033 553 88 72 43</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1554">
+                <coordinates>0.19091,44.27205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1557">
+            <name>Pomport Beach</name>
+            <phoneNumber>0033 524 10 61 13</phoneNumber>
+            <description> Pomport Beach, Route de la Gardonette, Pomport, 24240, France, 0033 524 10 61 13</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1556">
+                <coordinates>0.411609,44.771293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1559">
+            <name>La For�t Lourdes</name>
+            <phoneNumber> 5 62 94 04 38</phoneNumber>
+            <description> La For�t Lourdes, Camping Sites et Paysages La Foret Route de la Foret Lourdes 65100, France,  5 62 94 04 38</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1558">
+                <coordinates>-0.075745,43.095749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1561">
+            <name>Le Ventoulou</name>
+            <phoneNumber> 5 65 33 67 01</phoneNumber>
+            <description> Le Ventoulou, Camping Sites et Paysages Le Ventoulou, Lieu-dit le Ventoulou, Thegra, 46500, France,  5 65 33 67 01</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1560">
+                <coordinates>1.7777792,44.827974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1563">
+            <name>Domaine de la Paille Basse</name>
+            <phoneNumber>0033 565 37 85 48</phoneNumber>
+            <description> Domaine de la Paille Basse, La Paille Basse Souillac, 46200, France, 0033 565 37 85 48</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1562">
+                <coordinates>1.44118,44.94537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1565">
+            <name>Le Ch'timi</name>
+            <phoneNumber>0033 565 36 52 36</phoneNumber>
+            <description> Le Ch'timi, Ld La Roque, Touzac, 46700, France, 0033 565 36 52 36</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1564">
+                <coordinates>1.0667,44.4981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1567">
+            <name>Les Rivages</name>
+            <phoneNumber>0033 565 61 01 07</phoneNumber>
+            <description> Les Rivages, 860 Avenue de l'Aigoual, Millau, 12100, France, 0033 565 61 01 07</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1566">
+                <coordinates>3.096141,44.101389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1569">
+            <name>Pyr�n�es Natura</name>
+            <phoneNumber>0033 05 62 97 45 44</phoneNumber>
+            <description> Pyr�n�es Natura, Route du Lac, Estaing, 65400, France, 0033 05 62 97 45 44</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1568">
+                <coordinates>-0.17714,42.94139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1571">
+            <name>L'Orangerie de Beauregard Villedomer</name>
+            <phoneNumber>000 000 000</phoneNumber>
+            <description> L'Orangerie de Beauregard Villedomer, Beauregard Villedomer 37110, France, 000 000 000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1570">
+                <coordinates>0.890208,47.574634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1573">
+            <name>Le Moulin Fort</name>
+            <phoneNumber>0033 247 23 86 22</phoneNumber>
+            <description> Le Moulin Fort, Francueil, 37150, France, 0033 247 23 86 22</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1572">
+                <coordinates>1.08936,47.32765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1575">
+            <name>Les Bois du Bardelet</name>
+            <phoneNumber>0033 238 67 47 39</phoneNumber>
+            <description> Les Bois du Bardelet, Le Petit Bardelet, Poilly Les Gien, 45500, France, 0033 238 67 47 39</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1574">
+                <coordinates>2.615,47.6413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1577">
+            <name>Les Saules</name>
+            <phoneNumber>0033 254 79 90 01</phoneNumber>
+            <description> Les Saules, Les Saules, Cheverny, 41700, France, 0033 254 79 90 01</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1576">
+                <coordinates>1.45185,47.47869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1579">
+            <name>Le Ch�teau de la Rolandi�re</name>
+            <phoneNumber>0033 2 47 58 53 71</phoneNumber>
+            <description> Le Ch�teau de la Rolandi�re, Ch�teau de La Rolandi�re, Trogues, 37220, France, 0033 2 47 58 53 71</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1578">
+                <coordinates>0.51205,47.113514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1581">
+            <name>A La Rencontre du Soleil</name>
+            <phoneNumber>0033 4 76 79 12 22</phoneNumber>
+            <description> A La Rencontre du Soleil, Route de l'Alpe d'Huez, BP33, Le Bourg d'Oisans, 38520, France, 0033 4 76 79 12 22</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1580">
+                <coordinates>6.039894,45.065701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1583">
+            <name>Bel Epoque du Pilat</name>
+            <phoneNumber> 4 74 87 66 60</phoneNumber>
+            <description> Bel Epoque du Pilat, 2 Route de la Vaille, Pelussin, 42410, France,  4 74 87 66 60</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1582">
+                <coordinates>4.691571,45.413914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1585">
+            <name>La Colombi�re Neydens</name>
+            <phoneNumber>0033 450 35 13 14</phoneNumber>
+            <description> La Colombi�re Neydens, 166 Chemin Neuf, Neydens, 74160, France, 0033 450 35 13 14</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1584">
+                <coordinates>6.10565,46.12015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1587">
+            <name>Le Bontemps</name>
+            <phoneNumber>0033 474 57 83 52</phoneNumber>
+            <description> Le Bontemps, 5 Impasse du Bontemps Vernioz, 38150, France, 0033 474 57 83 52</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1586">
+                <coordinates>4.928564,45.425626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1589">
+            <name>Le Coin Tranquille</name>
+            <phoneNumber>0033 476 32 13 48</phoneNumber>
+            <description> Le Coin Tranquille, 6 Chemin Des Vignes, Les Abrets, 38490, France, 0033 476 32 13 48</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1588">
+                <coordinates>5.60834,45.54065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1591">
+            <name>Le Couspeau</name>
+            <phoneNumber>0033 475 53 30 14</phoneNumber>
+            <description> Le Couspeau, Quartier Bellevue, Drome Provencale, Poet Celard, 26460, France, 0033 475 53 30 14</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1590">
+                <coordinates>5.111077,44.595841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1593">
+            <name>Les Ranchisses</name>
+            <phoneNumber>0033 475 8831 97</phoneNumber>
+            <description> Les Ranchisses, 1525 Route de Valgorge, Chassiers, 7110, France, 0033 475 8831 97</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1592">
+                <coordinates>4.28615,44.5612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1595">
+            <name>L'Escale</name>
+            <phoneNumber>0033 450 02 20 69</phoneNumber>
+            <description> L' Escale, 33 Chemin de plein Air, Le Grand Bornand, 74450, France, 0033 450 02 20 69</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1594">
+                <coordinates>6.42777,45.93972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1597">
+            <name>Esterel Caravanning</name>
+            <phoneNumber>0033 494 82 03 28</phoneNumber>
+            <description> Esterel Caravanning, Avenue Des Golfs, Agay, 83530, France, 0033 494 82 03 28</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1596">
+                <coordinates>6.83264,43.45422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1599">
+            <name>L�Hippocampe </name>
+            <phoneNumber>0033 49233 5000</phoneNumber>
+            <description> L�Hippocampe Route Napol�on, Volonne, 4290, France, 0033 49233 5000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1598">
+                <coordinates>6.018137,44.105659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1601">
+            <name>Les P�cheurs</name>
+            <phoneNumber>0033 494 457 125</phoneNumber>
+            <description> Les P�cheurs, Camping les Pecheurs, Roquebrune-sur-Argens, 83520, France, 0033 494 457 125</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1600">
+                <coordinates>6.63357,43.45097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1603">
+            <name>Les Pin�des</name>
+            <phoneNumber>0033 493 32 98 94</phoneNumber>
+            <description> Les Pin�des, Route du Pont De Pierre, La Colle sur Loup, 6480, France, 0033 493 32 98 94</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1602">
+                <coordinates>7.08329,43.68179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1605">
+            <name>Le Moulin de Ste Anne</name>
+            <phoneNumber> 4 68 72 20 80</phoneNumber>
+            <description> Le Moulin de Ste Anne, Camping le Moulin de Sainte Anne Chemin de Sainte Anne, Villegly 11600, France,  4 68 72 20 80</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1604">
+                <coordinates>2.440811,43.284807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1607">
+            <name>Huttopia Noirmoutier</name>
+            <phoneNumber>0033 5 13 90 62 4</phoneNumber>
+            <description> Huttopia Noirmoutier, 23 Allee des Sableux, Noirmoutier en Ile, 85330, France, 0033 5 13 90 62 4</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1606">
+                <coordinates>-2.219799,46.996608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1609">
+            <name>La Bol�e d'Air</name>
+            <phoneNumber>0033 251 90 36 05</phoneNumber>
+            <description> La Bol�e d'Air, Route du Bouil, St Vincent sur Jard, 85520, France, 0033 251 90 36 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1608">
+                <coordinates>-1.52738,46.41837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1611">
+            <name>La Yole St Jean de Monts</name>
+            <phoneNumber>0033 251 58 67 17</phoneNumber>
+            <description> La Yole St Jean de Monts, Camping La Yole, 13 Chemin Des Bosses, Orouet, St Jean de Monts, 85160, France, 0033 251 58 67 17</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1610">
+                <coordinates>-2.00749,46.75638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1613">
+            <name>Le Bois Joli Bois de C�n�</name>
+            <phoneNumber>0033 251 68 20 05</phoneNumber>
+            <description> Le Bois Joli Bois de C�n�, 2 Rue de Ch�teauneuf, Bois-de-Cen�, 85710, France, 0033 251 68 20 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1612">
+                <coordinates>-1.887777,46.934201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1615">
+            <name>Le Ch�teau du Deffay</name>
+            <phoneNumber>0033 240 88 00 57</phoneNumber>
+            <description> Le Ch�teau du Deffay, BP 18, Sainte Reine de Bretagne, Le Deffay, Pontchateau, 44160, France, 0033 240 88 00 57</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1614">
+                <coordinates>-2.15972,47.44083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1617">
+            <name>Le Domaine de la Br�che</name>
+            <phoneNumber>0033 241 51 22 92</phoneNumber>
+            <description> Le Domaine de la Br�che, 5 Impasse de la Breche, Varennes sur Loire, 49730, France, 0033 241 51 22 92</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1616">
+                <coordinates>-0.001027,47.247313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1619">
+            <name>Les Vallons de l'Oc�an</name>
+            <phoneNumber>0033 240 21 58 83</phoneNumber>
+            <description> Les Vallons de l'Oc�an, 2 Route de la Tabardiere, La Plaine sur Mer, 44770, France, 0033 240 21 58 83</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1618">
+                <coordinates>-2.15313,47.14087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1621">
+            <name>La C�te Sauvage</name>
+            <phoneNumber>0033 2 53 81 70 00</phoneNumber>
+            <description> La C�te Sauvage, Les Mathes, 17570, France, 0033 2 53 81 70 00</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1620">
+                <coordinates>-1.233586,45.71664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1623">
+            <name>De Courte Vall�e</name>
+            <phoneNumber>0033 549 64 70 65</phoneNumber>
+            <description> De Courte Vall�e, 8 Rue de Courte Vallee, Airvault, 79600, France, 0033 549 64 70 65</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1622">
+                <coordinates>-0.148097,46.833013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1625">
+            <name>La Roche-Posay </name>
+            <phoneNumber>0033 549 862 123</phoneNumber>
+            <description> La Roche-Posay Route de Lesigny, La Roche Posay, 86270, France, 0033 549 862 123</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1624">
+                <coordinates>0.80961,46.7989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1627">
+            <name>Le Logis du Breuil</name>
+            <phoneNumber>0033 546 23 23 45</phoneNumber>
+            <description> Le Logis du Breuil, 36 Rue du Centre, St Augustin-sur-Mer, 17570, France, 0033 546 23 23 45</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1626">
+                <coordinates>-1.0967,45.6755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1629">
+            <name>Le Val Vert</name>
+            <phoneNumber>0033 546 38 25 51</phoneNumber>
+            <description> Le Val Vert, 108 Avenue Frederic Garnier, Vaux sur Mer, 17640, France, 0033 546 38 25 51</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1628">
+                <coordinates>-1.0679,45.6399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1631">
+            <name>Belle Plage</name>
+            <phoneNumber>02 97 56 77 17</phoneNumber>
+            <description> Belle Plage, Rue de l'Anse du Stole Ploemeur, 56270, France, 02 97 56 77 17</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1630">
+                <coordinates>-3.403647,47.709395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1633">
+            <name>Huttopia Douarnenez</name>
+            <phoneNumber>00 33 298740567</phoneNumber>
+            <description> Huttopia Douarnenez, 69 avenue du bois d'Isis, Douarnenez, 29100, France, 00 33 298740567</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1632">
+                <coordinates>-4.3586771,48.103222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1635">
+            <name>Le Cabellou Plage</name>
+            <phoneNumber> 298 97 37 41</phoneNumber>
+            <description> Le Cabellou Plage, 89 Avenue du Cabellou, Concarneau 29900, France,  298 97 37 41</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1634">
+                <coordinates>-3.903365,47.856273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1637">
+            <name>Le Ragu�n�s-Plage</name>
+            <phoneNumber>0033 298 06 80 69</phoneNumber>
+            <description> Le Ragu�n�s-Plage, 19 Rue des Iles, Nevez, 29920, France, 0033 298 06 80 69</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1636">
+                <coordinates>-3.801423,47.7934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1639">
+            <name>Sempach</name>
+            <phoneNumber>0041 41 460 14 66</phoneNumber>
+            <description> Sempach, Seelandstrasse 6, Sempach, 6204, Switzerland, 0041 41 460 14 66</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1638">
+                <coordinates>8.189918,47.12527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1641">
+            <name>Solothurn</name>
+            <phoneNumber>0041 326 218 935</phoneNumber>
+            <description> Solothurn, Glutzenhofstrasse 5, Solothurn, 4500, Switzerland, 0041 326 218 935</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1640">
+                <coordinates>7.523654,47.198219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1643">
+            <name>Las Lomas</name>
+            <phoneNumber>0034 958 48 47 42</phoneNumber>
+            <description> Las Lomas, Carretera de Guejar Sierra KM6.5, Guejar Sierra, 18160, Spain, 0034 958 48 47 42</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1642">
+                <coordinates>-3.453881,37.160731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1645">
+            <name>Vagueira</name>
+            <phoneNumber>254</phoneNumber>
+            <description> Vagueira, Rua do Parque de Campismo, 3840-254, Gafanha da Boa-Hora, Vagos, , 254</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1644">
+                <coordinates>-8.745106,40.558062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1647">
+            <name>Turiscampo</name>
+            <phoneNumber>00351 28 27 89 265</phoneNumber>
+            <description> Turiscampo, En 125, Espiche, Lagos, 8600- 109, Portugal, 00351 28 27 89 265</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1646">
+                <coordinates>-8.732366,37.101258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1649">
+            <name>L'Orangeraie Calig</name>
+            <phoneNumber> 964 765 059</phoneNumber>
+            <description> L'Orangeraie Calig, Camino Pe��scola-C�lig, Lista de Correos, C�lig/Castell�n, 12589, Spain,  964 765 059</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1648">
+                <coordinates>0.353408,40.455591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1651">
+            <name>Guincho</name>
+            <phoneNumber>00351 214 870 450</phoneNumber>
+            <description> Guincho, E.N. 247-6 Lugar de Areia, Guincho, Cascais, 2750-053, Portugal, 00351 214 870 450</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1650">
+                <coordinates>-9.46666,38.72166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1653">
+            <name>La Ferme des Aulnes</name>
+            <phoneNumber> 322 29 22 69</phoneNumber>
+            <description> La Ferme des Aulnes, Camping la Ferme des Aulnes, Fresne, Nampont Saint Martin, 80120, France,  322 29 22 69</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1652">
+                <coordinates>1.71253,50.33611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1655">
+            <name>Villasol</name>
+            <phoneNumber>0034 965 850 422</phoneNumber>
+            <description> Villasol, Avenida Bernat de Sarri�, 13, Alicante, Benidorm, 3505, Spain, 0034 965 850 422</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1654">
+                <coordinates>-0.106801,38.544805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1657">
+            <name>Sao Pedro de Moel</name>
+            <phoneNumber>00351 244 599 168</phoneNumber>
+            <description> Sao Pedro de Moel, Rua Volta Do Sete, Sao Pedro De Moel, Marinha Grande, 2430, Portugal, 00351 244 599 168</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1656">
+                <coordinates>-9.02451,39.7598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1659">
+            <name>Vilanova Park</name>
+            <phoneNumber>0034 93 893 34 02</phoneNumber>
+            <description> Vilanova Park, Carretera de l'Arboc Km 2,5, PO box 64, Vilanova i la Geltr�, 8800, Spain, 0034 93 893 34 02</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1658">
+                <coordinates>1.692881,41.232037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1661">
+            <name>La Motte</name>
+            <phoneNumber>0033 54 60 42 691</phoneNumber>
+            <description> La Motte, D270 Lieu de La Motte Le Fouilloux, 17270, France, 0033 54 60 42 691</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1660">
+                <coordinates>-0.136543,45.212121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1663">
+            <name>Ariztigain</name>
+            <phoneNumber>0034 948 450 540</phoneNumber>
+            <description> Ariztigain, Zubizargaina S/N, Navarra, Sunbilla, 31791, Spain, 0034 948 450 540</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1662">
+                <coordinates>-1.6725,43.171374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1665">
+            <name>Parque Tropical</name>
+            <phoneNumber>0034 952793618</phoneNumber>
+            <description> Parque Tropical, Carretera A7, Km 162,2, Estepona, Malaga, 29680, Spain, 0034 952793618</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1664">
+                <coordinates>-5.080865,36.454118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1667">
+            <name>Playa Almayate Costa</name>
+            <phoneNumber>0034 952556289</phoneNumber>
+            <description> Playa Almayate Costa, Road N.340 km 267, Almayate, 29749, Spain, 0034 952556289</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1666">
+                <coordinates>-4.135268,36.72504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1669">
+            <name>Le Domaine de la Catini�re</name>
+            <phoneNumber>03 25 76 351</phoneNumber>
+            <description> Le Domaine de la Catini�re, 910 Route de la Morelle, Fiquefleur Equainville, 27210, France, 03 25 76 351</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1668">
+                <coordinates>0.3056,49.4009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1671">
+            <name>L'Oasis &amp; California</name>
+            <phoneNumber>0033 468 86 16 08</phoneNumber>
+            <description> L'Oasis &amp; California, Route de St Laurent, Le Barcares, 66420, France, 0033 468 86 16 08</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1670">
+                <coordinates>3.023,42.7757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1673">
+            <name>Domaine du Verdon</name>
+            <phoneNumber>0033 467026729</phoneNumber>
+            <description> Domaine du Verdon D952, Castellane, 4120, France, 0033 467026729</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1672">
+                <coordinates>6.495349,43.838625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1675">
+            <name>Roquetas de Mar</name>
+            <phoneNumber>0034 950 343 809</phoneNumber>
+            <description> Roquetas de Mar, Paraje Los Parrales 90, Roquetas de Mar, Almeria, 4740, Spain, 0034 950 343 809</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1674">
+                <coordinates>-2.591419,36.797627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1677">
+            <name>La Bella Vista</name>
+            <phoneNumber>0034 952 890 020</phoneNumber>
+            <description> La Bella Vista, Crtra Nacional 340, km 142.8, Manilva, Manilva, 29692, Spain, 0034 952 890 020</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1676">
+                <coordinates>-5.2362,36.34629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1679">
+            <name>Sanssouci zu Potsdam</name>
+            <phoneNumber>0049 331 9510 988</phoneNumber>
+            <description> Sanssouci zu Potsdam, An Der Pirschheide 41, Am Templiner See 41, Potsdam, 14471, Germany, 0049 331 9510 988</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1678">
+                <coordinates>13.00793,52.36168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1681">
+            <name>Kiko Park</name>
+            <phoneNumber>0034 962 85 09 05</phoneNumber>
+            <description> Kiko Park C/assagador De Carro 2, 46780 Oliva (Valencia), Oliva (Valencia), 46780, Spain, 0034 962 85 09 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1680">
+                <coordinates>-0.09772,38.93276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1683">
+            <name>Lago Resort</name>
+            <phoneNumber>0034 9768 49038</phoneNumber>
+            <description> Lago Resort, Ctra. Alhama de Arag�n, Nuevalos, Zaragoza, Arag�n, 50210, Spain, 0034 9768 49038</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1682">
+                <coordinates>-1.792947,41.218021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1685">
+            <name>Monte Holiday</name>
+            <phoneNumber>0034 91 869 52 78</phoneNumber>
+            <description> Monte Holiday, Finca El Tercio Nuevo s/n, Gargantilla del Lozoya, Madrid, 28739, Spain, 0034 91 869 52 78</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1684">
+                <coordinates>-3.7293,40.94988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1687">
+            <name>Pe�a Monta�esa</name>
+            <phoneNumber>0034 974 50 00 32</phoneNumber>
+            <description> Pe�a Monta�esa, Ctra Ainsa - Bielsa Km 2, Huesca, Labuerda-Ainsa, 22360, Spain, 0034 974 50 00 32</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1686">
+                <coordinates>0.136059,42.435176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1689">
+            <name>Playa Brava</name>
+            <phoneNumber>0034 972 63 68 94</phoneNumber>
+            <description> Playa Brava, Avinguida Del Grau 1, Pals, 17256, Spain, 0034 972 63 68 94</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1688">
+                <coordinates>3.19397,42.001572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1691">
+            <name>Lazy Rancho </name>
+            <phoneNumber>0041 33 822 87 16</phoneNumber>
+            <description> Lazy Rancho Lehnweg 6, Interlaken - Unterseen, 3800, Switzerland, 0041 33 822 87 16</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1690">
+                <coordinates>7.83063,46.68605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1693">
+            <name>Lugano </name>
+            <phoneNumber>0041 91 994 77 88</phoneNumber>
+            <description> Lugano, Via Alla Foce 14, Muzzano, 6933, Switzerland, 0041 91 994 77 88</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1692">
+                <coordinates>8.90861,45.99527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1695">
+            <name>Alannia Costa Blanca</name>
+            <phoneNumber>0034 965 484 945</phoneNumber>
+            <description> Alannia Costa Blanca, AP7 Salida 730, Catral (Crevillente), 3330, Spain, 0034 965 484 945</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1694">
+                <coordinates>-0.80876,38.1777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1697">
+            <name>Alannia Guardamar</name>
+            <phoneNumber>0034 966 727 070</phoneNumber>
+            <description> Alannia Guardamar, N - 332 KM.73.4, Guardamar del Segura, 3140, Spain, 0034 966 727 070</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1696">
+                <coordinates>-0.65472,38.10916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1699">
+            <name>Bonterra Resort</name>
+            <phoneNumber>0034 964 30 00 07</phoneNumber>
+            <description> Bonterra Resort, Avda De Barcelona 47, Benicassim, 12560, Spain, 0034 964 30 00 07</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1698">
+                <coordinates>0.07429,40.05709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1701">
+            <name>Caravaning Oyambre</name>
+            <phoneNumber>00 34 942 711 461</phoneNumber>
+            <description> Caravaning Oyambre, Los Laos s/n, San Vicente de la Barquera, 39540, Spain, 00 34 942 711 461</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1700">
+                <coordinates>-4.337993,43.384445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1703">
+            <name>Despe�aperros</name>
+            <phoneNumber>0034 953 664 192</phoneNumber>
+            <description> Despe�aperros, Calle Infanta Elena, Santa Elena, 23213, Spain, 0034 953 664 192</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1702">
+                <coordinates>-3.536351,38.343932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1705">
+            <name>El Astral</name>
+            <phoneNumber>0034 983 770 953</phoneNumber>
+            <description> El Astral, Camino de Pollos, 8, Tordesillas, Valladolid, 47100, Spain, 0034 983 770 953</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1704">
+                <coordinates>-5.005099,41.495705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1707">
+            <name>Florantilles</name>
+            <phoneNumber>0034 96 572 04 56</phoneNumber>
+            <description> Florantilles, Ctra. San Miguel de Salinas-Torrevieja, Alicante, 3193, Spain, 0034 96 572 04 56</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1706">
+                <coordinates>-0.753263,37.975346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1709">
+            <name>De Paal</name>
+            <phoneNumber>0031 497 571 977</phoneNumber>
+            <description> De Paal, Paaldreef TN Bergijk, 145571, The Netherlands, 0031 497 571 977</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1708">
+                <coordinates>5.35534,51.33612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1711">
+            <name>Delftse Hout</name>
+            <phoneNumber>0031 15 21 300 40</phoneNumber>
+            <description> Delftse Hout, Korftlaan 5, Delft, 2616, The Netherlands, 0031 15 21 300 40</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1710">
+                <coordinates>4.37945,52.01769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1713">
+            <name>Den Driesch</name>
+            <phoneNumber>0031 43 6012025</phoneNumber>
+            <description> Den Driesch, Heunsbergerweg 1, BN Valkenburg aan de Geul, 6301, The Netherlands, 0031 43 6012025</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1712">
+                <coordinates>5.831483,50.85971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1715">
+            <name>Duinrell</name>
+            <phoneNumber>0031 705 15 52 55</phoneNumber>
+            <description> Duinrell Duinrell 1, JP Wassenaar, 2242, The Netherlands, 0031 705 15 52 55</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1714">
+                <coordinates>4.3875,52.14638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1717">
+            <name>Cepo Verde</name>
+            <phoneNumber>000 000 000</phoneNumber>
+            <description> Cepo Verde, Lugar da Vinha do Santo, 5300-561, Gondesende, Bragan�a, , 000 000 000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1716">
+                <coordinates>-6.860503,41.845765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1719">
+            <name>Blarney Caravan &amp; Camping Park</name>
+            <phoneNumber>00 353 214 516 519</phoneNumber>
+            <description> Blarney Caravan &amp; Camping Park, Stone View, Blarney, Co Cork, T23 R85R, Republic of Ireland, 00 353 214 516 519</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1718">
+                <coordinates>-8.54705,51.94746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1721">
+            <name>Fleming's White Bridge</name>
+            <phoneNumber>00353 64 6631590</phoneNumber>
+            <description> Fleming's White Bridge, Ballycasheen Road, Killarney, Co Kerry, V93 HW56, Republic of Ireland, 00353 64 6631590</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1720">
+                <coordinates>-9.47305,52.05472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1723">
+            <name>Glenross</name>
+            <phoneNumber>00353 6697 68 451</phoneNumber>
+            <description> Glenross, Glenbeigh, Co. Kerry, V93 HF64, Republic of Ireland, 00353 6697 68 451</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1722">
+                <coordinates>-9.93183,52.05862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1725">
+            <name>River Valley Caravan Park</name>
+            <phoneNumber>00353 404 416 47</phoneNumber>
+            <description> River Valley Caravan Park, Redcross, Co. Wicklow, A67 W966, Republic of Ireland, 00353 404 416 47</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1724">
+                <coordinates>-6.144576,52.88915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1727">
+            <name>Bled</name>
+            <phoneNumber>0038 645 752 000</phoneNumber>
+            <description> Bled, Kirdriceava 10 C, Bled, 4260, Slovenia, 0038 645 752 000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1726">
+                <coordinates>14.08066,46.36155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1729">
+            <name>La Pedrera</name>
+            <phoneNumber>00 34 966 18 30 20</phoneNumber>
+            <description> La Pedrera, 100 Calle Ca�ada de Andrea, Bigastro, 3380, Spain, 00 34 966 18 30 20</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1728">
+                <coordinates>-0.898122,38.051849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1731">
+            <name>L'Ocean Breton</name>
+            <phoneNumber>0033 2 98 82 23 89</phoneNumber>
+            <description> L'Ocean Breton, Lieu Dit Manoir de Kerlut, Plobannalec-Lesconil, 29740, France, 0033 2 98 82 23 89</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1730">
+                <coordinates>-4.221849730536391,47.81269982440477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1733">
+            <name>De La Piscine</name>
+            <phoneNumber> 98 56 56 06</phoneNumber>
+            <description> De La Piscine, 51 Hent Kerleya, BP12 Beg Meil, Fouesnant, 29170, France,  98 56 56 06</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1732">
+                <coordinates>-4.01409,47.865765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1735">
+            <name>De Trologot</name>
+            <phoneNumber>0033 298 690 626</phoneNumber>
+            <description> De Trologot, Gr�ve du Mar, Saint Pol De L�on, 29250, France, 0033 298 690 626</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1734">
+                <coordinates>-3.96918,48.69339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1737">
+            <name>Du Poulquer</name>
+            <phoneNumber>0033 298 57 04 19</phoneNumber>
+            <description> Du Poulquer, 23 Rue du Poulquer, Benodet, 29950, France, 0033 298 57 04 19</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1736">
+                <coordinates>-4.0975,47.8678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1739">
+            <name>La Plage</name>
+            <phoneNumber>0033 298 58 61 90</phoneNumber>
+            <description> La Plage, 241 Hent Maner ar Ster, Penmarch, 29760, France, 0033 298 58 61 90</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1738">
+                <coordinates>-4.31222,47.80388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1741">
+            <name>Le Domaine du Logis </name>
+            <phoneNumber>0033 299 45 25 45</phoneNumber>
+            <description> Le Domaine du Logis Le Logis, La Chapelle Aux Filzm�ens, 35190, France, 0033 299 45 25 45</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1740">
+                <coordinates>-1.83475,48.38205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1743">
+            <name>Le P'tit Bois</name>
+            <phoneNumber>0033 299 21 14 30</phoneNumber>
+            <description> Le P'tit Bois, La Chalandouse, St-Jouan-des-Gu�rets, 35430, France, 0033 299 21 14 30</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1742">
+                <coordinates>-1.98694,48.60985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1745">
+            <name>Les Ormes, Domaine and Resort</name>
+            <phoneNumber>0033 299 73 53 21</phoneNumber>
+            <description> Domaine and Resort&gt;0033 299 73 53 21, Les Ormes, Domaine and Resort, M. de la Chesnais, Les Ormes, Epiniac, 35120, France, 0033 299 73 53 21</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1744">
+                <coordinates>-1.7299,48.4915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1747">
+            <name>Le Ch�teau du Gandspette</name>
+            <phoneNumber>0033 321 93 43 93</phoneNumber>
+            <description> Le Ch�teau du Gandspette, 133 Rue du Gandspette, Eperlecques, 62910, France, 0033 321 93 43 93</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1746">
+                <coordinates>2.1787,50.8189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1749">
+            <name>La Bien Assise</name>
+            <phoneNumber>0033 321 35 20 77</phoneNumber>
+            <description> La Bien Assise, RD 231, Chateau de la Bien Assise, Guines, 62340, France, 0033 321 35 20 77</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1748">
+                <coordinates>1.85694,50.86611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1751">
+            <name>Camping de Paris</name>
+            <phoneNumber>0033 145 243 000</phoneNumber>
+            <description> Camping de Paris, 2 All�e du Bord de l'eau, Paris, 75016, France, 0033 145 243 000</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1750">
+                <coordinates>2.234912,48.868226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1753">
+            <name>Huttopia Versailles</name>
+            <phoneNumber> 13 95 12 361</phoneNumber>
+            <description> Huttopia Versailles, 31 Rue Berthelot, Versailles, 78000, France,  13 95 12 361</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1752">
+                <coordinates>2.1609574,48.7942728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1755">
+            <name>Au Bord de L'Aisne</name>
+            <phoneNumber> 323 79 74 58</phoneNumber>
+            <description> Au Bord de L'Aisne, 14 Bis Rue des Godins, Guignicourt, 2190, France,  323 79 74 58</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1754">
+                <coordinates>3.97032,49.43207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1757">
+            <name>Caravaning des 4 Vents</name>
+            <phoneNumber>0033 164 07 41 11</phoneNumber>
+            <description> Caravaning des 4 Vents, Rue De Beauregard, Crevecoeur-en-Brie, 77610, France, 0033 164 07 41 11</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1756">
+                <coordinates>2.8973,48.75067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1759">
+            <name>Du Vivier aux Carpes</name>
+            <phoneNumber> 323 60 50 10</phoneNumber>
+            <description> Du Vivier aux Carpes, Camping du Vivier aux Carpes, 4 Rue Charles Voyeux, Seraucourt le Grand, 2790, France,  323 60 50 10</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1758">
+                <coordinates>3.21409,49.78173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1761">
+            <name>Le Ch�teau de Drancourt</name>
+            <phoneNumber>0033 322 26 93 45</phoneNumber>
+            <description> Le Ch�teau de Drancourt, Estreboeuf, Saint-Valery-sur-Somme, 80230, France, 0033 322 26 93 45</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1760">
+                <coordinates>1.63614,50.15281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1763">
+            <name>Anse du Brick</name>
+            <phoneNumber>0033 233 54 33 57</phoneNumber>
+            <description> Anse du Brick, 18 Anse du Brick, Maupertus sur mer, 50330, France, 0033 233 54 33 57</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1762">
+                <coordinates>-1.48787,49.66737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1765">
+            <name>Le Ch�teau de Lez-Eaux</name>
+            <phoneNumber>0033 233 51 66 09</phoneNumber>
+            <description> Le Ch�teau de Lez-Eaux, Saint Aubin Des Preaux, St Pair sur Mer, 50380, France, 0033 233 51 66 09</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1764">
+                <coordinates>-1.5244,48.7979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1767">
+            <name>Bel Ombrage</name>
+            <phoneNumber>0033 553 28 34 14</phoneNumber>
+            <description> Bel Ombrage, 24 lieu dit L'Abarede, St Cybranet, 24250, France, 0033 553 28 34 14</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1766">
+                <coordinates>1.16266,44.79175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1769">
+            <name>Le Pavillon Royal</name>
+            <phoneNumber>0033 559 23 00 54</phoneNumber>
+            <description> Le Pavillon Royal, Avenue du Prince de Galles, Bidart, 64210, France, 0033 559 23 00 54</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1768">
+                <coordinates>-1.58119,43.45525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1771">
+            <name>Le Port de Limeuil</name>
+            <phoneNumber>0033 553 63 29 76</phoneNumber>
+            <description> Le Port de Limeuil, Alles sur Dordogne, 24480, France, 0033 553 63 29 76</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1770">
+                <coordinates>0.88591,44.8795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1773">
+            <name>Les P�neyrals</name>
+            <phoneNumber>0033 553 28 85 71</phoneNumber>
+            <description> Les P�neyrals, Le Poujol, St Crepin et Carlucet, 24590, France, 0033 553 28 85 71</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1772">
+                <coordinates>1.272807,44.95771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1775">
+            <name>Lou P'tit Poun</name>
+            <phoneNumber>0033 559 56 55 79</phoneNumber>
+            <description> Lou P'tit Poun, 110 Avenue Du Quartier Neuf, Saint Martin De Seignanx, 40390, France, 0033 559 56 55 79</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1774">
+                <coordinates>-1.40923,43.52294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1777">
+            <name>Saint-Emilion</name>
+            <phoneNumber>0033 557 24 75 80</phoneNumber>
+            <description> Saint-Emilion, 2 Lieu Dit Les Combes, St Emilion, 33330, France, 0033 557 24 75 80</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1776">
+                <coordinates>-0.14141,44.91741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1779">
+            <name>Le Camp de Florence</name>
+            <phoneNumber>0033 562 28 15 58</phoneNumber>
+            <description> Le Camp de Florence, La Romieu, 32480, France, 0033 562 28 15 58</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1778">
+                <coordinates>0.50183,43.98299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1781">
+            <name>Le Moulin</name>
+            <phoneNumber>0033 561 98 86 40</phoneNumber>
+            <description> Le Moulin, Lieu dit 'Le Moulin, Martres-Tolosane, 31220, France, 0033 561 98 86 40</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1780">
+                <coordinates>1.01619,43.19154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1783">
+            <name>Les Gen�ts</name>
+            <phoneNumber>0033 565 46 35 34</phoneNumber>
+            <description> Les Gen�ts, Lac de Pareloup, Salles Curan, 12 410, France, 0033 565 46 35 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1782">
+                <coordinates>2.76531,44.18891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1785">
+            <name>Huttopia Les Ch�teaux</name>
+            <phoneNumber>0033 254 46 41 84</phoneNumber>
+            <description> Huttopia Les Ch�teaux, 11 rue Roger Brun, Bracieux, 41250, France, 0033 254 46 41 84</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1784">
+                <coordinates>1.537339,47.550539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1787">
+            <name>Le Ch�teau des Marais</name>
+            <phoneNumber>0033 254 87 05 42</phoneNumber>
+            <description> Le Ch�teau des Marais, 27 Route de Chambord, Muides-Sur-Loire, 41500, France, 0033 254 87 05 42</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1786">
+                <coordinates>1.52856,47.66585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1789">
+            <name>Le Parc de Fierbois</name>
+            <phoneNumber>0033 247 65 43 35</phoneNumber>
+            <description> Le Parc de Fierbois, Ste Catherine de Fierbois, 37800, France, 0033 247 65 43 35</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1788">
+                <coordinates>0.6529,47.14706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1791">
+            <name>Le Parc du Val de Loire</name>
+            <phoneNumber>0033 254 70 27 18</phoneNumber>
+            <description> Le Parc du Val de Loire, 155 Route De Fleuray, Mesland, 41150, France, 0033 254 70 27 18</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1790">
+                <coordinates>1.104,47.5103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1793">
+            <name>Les Alicourts </name>
+            <phoneNumber>0033 254 88 63 34</phoneNumber>
+            <description> Les Alicourts Pierrefitte-sur-Sauldre, 41300, France, 0033 254 88 63 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1792">
+                <coordinates>2.191687,47.54453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1795">
+            <name>Ard�che Camping Privas</name>
+            <phoneNumber>00334 75 64 05 80</phoneNumber>
+            <description> Ard�che Camping Privas, Chemin du Camping, Privas, 7000, , 00334 75 64 05 80</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1794">
+                <coordinates>4.597602,44.724718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1797">
+            <name>Camping de Lyon</name>
+            <phoneNumber>0033 478 35 64 55</phoneNumber>
+            <description> Camping de Lyon, All�e du Camping International, Porte de Lyon, Dardilly, 69570, France, 0033 478 35 64 55</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1796">
+                <coordinates>4.761565,45.819745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1799">
+            <name>Huttopia Bourg St Maurice</name>
+            <phoneNumber> 479070345</phoneNumber>
+            <description> Huttopia Bourg St Maurice, Route des Arcs, Bourg Saint Maurice, 73700, France,  479070345</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1798">
+                <coordinates>6.784673,45.62236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1801">
+            <name>L�Eden de la Vanoise</name>
+            <phoneNumber>0033 479 07 61 81</phoneNumber>
+            <description> L�Eden de la Vanoise, Le Perrey au Levant, Avenue de la Gare, Landry, 73210, France, 0033 479 07 61 81</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1800">
+                <coordinates>6.734489,45.576274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1803">
+            <name>Le Champ Du Moulin</name>
+            <phoneNumber>0033 476 80 07 38</phoneNumber>
+            <description> Le Champ Du Moulin, Bourg D' Arud, Venosc, 38520, France, 0033 476 80 07 38</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1802">
+                <coordinates>6.12027,44.98611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1805">
+            <name>Le Taillefer</name>
+            <phoneNumber>0033 450 44 30 30</phoneNumber>
+            <description> Le Taillefer, 1530 Rue De Chaparon, Doussard, 74210, France, 0033 450 44 30 30</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1804">
+                <coordinates>6.20608,45.80302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1807">
+            <name>Le Vaugrais</name>
+            <phoneNumber>0033 479 87 37 34</phoneNumber>
+            <description> Le Vaugrais, 2, Chemin le Vaugrais, Artemare, 1510, France, 0033 479 87 37 34</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1806">
+                <coordinates>5.68386,45.87457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1809">
+            <name>Nature Parc L'Ard�chois</name>
+            <phoneNumber>0033 475 88 06 63</phoneNumber>
+            <description> Nature Parc L'Ard�chois, Route Touristique des Gorges de L'Ard�che, Vallon Pont d�Arc, 7150, France, 0033 475 88 06 63</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1808">
+                <coordinates>4.398931,44.398257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1811">
+            <name>RCN Belledonne</name>
+            <phoneNumber>0033 476 80 07 18</phoneNumber>
+            <description> RCN Belledonne, Rochetaillee, Bourg d'Oisans, 38520, France, 0033 476 80 07 18</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1810">
+                <coordinates>6.00785,45.1144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1813">
+            <name>Riviera d'Azur</name>
+            <phoneNumber> 83370</phoneNumber>
+            <description> Riviera d'Azur, 189 Les Grands Chateaux des Villepey, Saint Aygulf, 83370, France,  83370</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1812">
+                <coordinates>6.711962,43.415188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1815">
+            <name>Les Portes d'Alsace</name>
+            <phoneNumber>00 33 388 91 35 65</phoneNumber>
+            <description> Les Portes d�Alsace, 40 Rue du Pere Liebermann, Saverne, 67700, France, 00 33 388 91 35 65</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1814">
+                <coordinates>7.35547,48.73072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1817">
+            <name>Ch�lons en Champagne</name>
+            <phoneNumber>0033 3 26 68 38 00</phoneNumber>
+            <description> Ch�lons en Champagne, Rue de Plaisance, Chalons en Champagne, 51000, France, 0033 3 26 68 38 00</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1816">
+                <coordinates>4.383942,48.936532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1819">
+            <name>Huttopia La Plage Blanche</name>
+            <phoneNumber>0033 384 37 69 63</phoneNumber>
+            <description> Huttopia La Plage Blanche, 3 Rue de la Plage, Ounans, 39380, France, 0033 384 37 69 63</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1818">
+                <coordinates>5.66396,47.00288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1821">
+            <name>La Samaritaine</name>
+            <phoneNumber>3 24 30 08 88</phoneNumber>
+            <description> La Samaritaine, 2 All�e des Etangs, Buzancy, 8240, France, 3 24 30 08 88</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1820">
+                <coordinates>4.939331,49.426454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1823">
+            <name>Lac de la Liez</name>
+            <phoneNumber>0033 325 90 27 79</phoneNumber>
+            <description> Lac de la Liez, Rue des Voiliers, Peigney, 52200, France, 0033 325 90 27 79</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1822">
+                <coordinates>5.3805,47.87308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1825">
+            <name>Le Fayolan</name>
+            <phoneNumber>00 33 384 258852</phoneNumber>
+            <description> Le Fayolan, BP 52 Chemin du Langard, Clairvaux les Lacs, 39130, France, 00 33 384 258852</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1824">
+                <coordinates>5.756102,46.564129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1827">
+            <name>Val De Bonnal</name>
+            <phoneNumber>0033 381 86 90 87</phoneNumber>
+            <description> Val De Bonnal, 1 Chemin Du Moulin, Bonnal, 25680, France, 0033 381 86 90 87</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1826">
+                <coordinates>6.35596,47.50768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1829">
+            <name>De Vaubarlet</name>
+            <phoneNumber> 43600</phoneNumber>
+            <description> D43 Route de Grazac, Sainte Sigol�ne, Haute-Loire, 43600, France,  43600</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1828">
+                <coordinates>4.21271,45.21608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1831">
+            <name>Huttopia Beaulieu sur Dordogne</name>
+            <phoneNumber>0033 5 55 91 02 65</phoneNumber>
+            <description> Huttopia Beaulieu sur Dordogne, Boulevard de Rudolphe Turenne, Beaulieu sur Dordogne 19120, France, 0033 5 55 91 02 65</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1830">
+                <coordinates>1.84055,44.980812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1833">
+            <name>Le Ch�teau de Leychoisier</name>
+            <phoneNumber>0033 555 39 93 43</phoneNumber>
+            <description> Le Ch�teau de Leychoisier, 1 Route de Leychoisier, Bonnac La Cote, 87270, France, 0033 555 39 93 43</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1832">
+                <coordinates>1.28998,45.93297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1835">
+            <name>Le Ch�teau de Poinsouze</name>
+            <phoneNumber>0033 555 65 02 21</phoneNumber>
+            <description> Le Ch�teau de Poinsouze, Route De La Chatre, Boussac-Bourg, 23600, France, 0033 555 65 02 21</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1834">
+                <coordinates>2.20036,46.37192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1837">
+            <name>Le Lac de Panthier</name>
+            <phoneNumber> 3 80 49 21 94</phoneNumber>
+            <description> Le Lac de Panthier, 1 Chemin du Lac, Vandenesse en Auxois, 21320, France,  3 80 49 21 94</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1836">
+                <coordinates>4.6288749,47.236747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1839">
+            <name>Merry Sur Yonne</name>
+            <phoneNumber>00 33 3 86 34 59 55</phoneNumber>
+            <description> Merry Sur Yonne, 5 impasse des sables, Merry sur Yonne, 89660, France, 00 33 3 86 34 59 55</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1838">
+                <coordinates>3.645552,47.562751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1841">
+            <name>Le Ch�teau de l'Epervi�re</name>
+            <phoneNumber>0033 385 94 16 90</phoneNumber>
+            <description> Le Ch�teau de l'Epervi�re, Rue du Ch�teau, Gigny sur Saone, 71240, France, 0033 385 94 16 90</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1840">
+                <coordinates>4.944213,46.654815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1843">
+            <name>Am Auwaldsee</name>
+            <phoneNumber>0049 0841 96 11 616</phoneNumber>
+            <description> Am Auwaldsee, Am Auwaldsee 1, Ingolstadt, 85053, Germany, 0049 0841 96 11 616</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1842">
+                <coordinates>11.463706,48.753698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1845">
+            <name>Freizeitpark Luxoase</name>
+            <phoneNumber>0049 359 525 6666</phoneNumber>
+            <description> Freizeitpark Luxoase, Arnsdorfer Strasse 1, Kleinroehrsdorf bei Dresden, 1900, Germany, 0049 359 525 6666</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1844">
+                <coordinates>13.98,51.12027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1847">
+            <name>Gutshof</name>
+            <phoneNumber>0</phoneNumber>
+            <description> Gutshof, Laimnau/Badhutten 1/2, Tettnang, 88069, Germany, 0</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1846">
+                <coordinates>9.648017,47.633544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1849">
+            <name>Kl�thseecamp and Seeblick</name>
+            <phoneNumber>0049 4551 823 68</phoneNumber>
+            <description> Kl�thseecamp and Seeblick, Kluethseehof 2, Klein R�nnau, 23795, Germany, 0049 4551 823 68</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1848">
+                <coordinates>10.33685,53.96131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1851">
+            <name>Lech Camping</name>
+            <phoneNumber>0049 8207 2200</phoneNumber>
+            <description> Lech Camping, Seeweg 6, Affing-M�hlhausen bei Augsburg, Augsburg, 86444, Germany, 0049 8207 2200</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1850">
+                <coordinates>10.928827,48.436884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1853">
+            <name>R�desheim am Rhein</name>
+            <phoneNumber>0049 6722 25 28</phoneNumber>
+            <description> R�desheim am Rhein, Kastanienallee 4, Rudesheim, 65385, Germany, 0049 6722 25 28</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1852">
+                <coordinates>7.94083,49.97777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1855">
+            <name>Il Collaccio</name>
+            <phoneNumber>0039 07 43 93 90 05</phoneNumber>
+            <description> Il Collaccio, Centro Agrituristico Il Collaccio, Preci, 6047, Italy, 0039 07 43 93 90 05</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1854">
+                <coordinates>13.023568,42.944485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1857">
+            <name>La Valle Agricampeggio</name>
+            <phoneNumber>00039 3 49 13 70 75 0</phoneNumber>
+            <description> La Valle Agricampeggio, Via Statale Abetone 478 Ripafratia San Giuliano Terme Toscana (PI) 56017, Italy, 00039 3 49 13 70 75 0</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1856">
+                <coordinates>10.423616,43.8301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1859">
+            <name>Santa Fortunata</name>
+            <phoneNumber>0039 0818073574</phoneNumber>
+            <description> Santa Fortunata, Via Capo, 39/a, Sorrento, 80067, Italy, 0039 0818073574</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1858">
+                <coordinates>14.358234,40.62794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1861">
+            <name>Ca' Savio</name>
+            <phoneNumber>0039 041 966017</phoneNumber>
+            <description> Ca' Savio, Via di Casavio 77, Venice, 30010, Italy, 0039 041 966017</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1860">
+                <coordinates>12.461,45.4456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1863">
+            <name>Centro Vacanze San Marino</name>
+            <phoneNumber>0039 0549 907120</phoneNumber>
+            <description> Centro Vacanze San Marino, 50, Strada di San Michele, Cailungo, San Marino, 47893, Italy, 0039 0549 907120</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1862">
+                <coordinates>12.46016,43.95889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1865">
+            <name>Norcenni Girasole Club</name>
+            <phoneNumber>0039 055 91 51 41</phoneNumber>
+            <description> Norcenni Girasole Club, Via Norcenni 7, Figline Valdarno, 50063, Italy, 0039 055 91 51 41</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1864">
+                <coordinates>11.44944,43.61333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1867">
+            <name>Nommerlayen</name>
+            <phoneNumber>352 87 80 78</phoneNumber>
+            <description> Nommerlayen, Rue Nommerlayen, Nommern, L 7465, Luxembourg, 352 87 80 78</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1866">
+                <coordinates>6.16441,49.784585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1869">
+            <name>Birkelt Village</name>
+            <phoneNumber>00352 87 90 40</phoneNumber>
+            <description> Birkelt Village, 1 Um Birkelt, Larochette, 7633, Luxembourg, 00352 87 90 40</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1868">
+                <coordinates>6.2101,49.78525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1871">
+            <name>Arendshorst </name>
+            <phoneNumber>0031 529 453 248</phoneNumber>
+            <description> Arendshorst Arendshorsterweg 3a, Ommen, 7731, The Netherlands, 0031 529 453 248</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1870">
+                <coordinates>6.36431,52.51944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1873">
+            <name>Camping Koningshof</name>
+            <phoneNumber>0031 71 40 26 051</phoneNumber>
+            <description> Camping Koningshof, Vakantiepark Koningshof, Elgeesterweg 8, NW Rijnsburg, 2231, The Netherlands, 0031 71 40 26 051</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1872">
+                <coordinates>4.45625,52.1999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1875">
+            <name>Lilse Bergen</name>
+            <phoneNumber>01455 7901</phoneNumber>
+            <description> Lilse Bergen, Strandweg 6, Lille-Gierle, B-2275, Belgium, 01455 7901</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1874">
+                <coordinates>4.838559,51.29395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1877">
+            <name>Bel</name>
+            <phoneNumber> 251304839</phoneNumber>
+            <description> Bel, 4 rue du bottereau, La Tranche sur Mer, 85360, France,  251304839</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1876">
+                <coordinates>-1.432806,46.349456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1879">
+            <name>Le Pin Parasol</name>
+            <phoneNumber>0033 251 34 64 72</phoneNumber>
+            <description> Le Pin Parasol, Chateaulong, La Chapelle Hermier, 85220, France, 0033 251 34 64 72</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1878">
+                <coordinates>-1.75543,46.66652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1881">
+            <name>Les Ecureuils</name>
+            <phoneNumber> 240827695</phoneNumber>
+            <description> Les Ecureuils, 24 Avenue Gilbert Burlot, La Bernerie en Retz, 44760, France,  240827695</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1880">
+                <coordinates>-2.037239,47.084262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1883">
+            <name>Les Portes en R�</name>
+            <phoneNumber>0033 0 546295104</phoneNumber>
+            <description> Les Portes en R�, Route de la Pointe � Chabot, Les Portes en R�, 17880, France, 0033 0 546295104</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1882">
+                <coordinates>-1.492709,46.248346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1885">
+            <name>La Venise Verte</name>
+            <phoneNumber>0033 549 35 90 36</phoneNumber>
+            <description> La Venise Verte, 178 Route Des Bords De Sevre, Coulon, 79510, France, 0033 549 35 90 36</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1884">
+                <coordinates>-0.60888,46.31444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1887">
+            <name>Le Domaine d'Ol�ron</name>
+            <phoneNumber>0033 546 76 54 97</phoneNumber>
+            <description> Le Domaine d'Ol�ron, Le Domaine d'Ol�ron, La Jousseliniere, St Georges d'Oleron, 17190, France, 0033 546 76 54 97</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1886">
+                <coordinates>-1.31879,45.96796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1889">
+            <name>Le Petit Trianon de St Ustre</name>
+            <phoneNumber>0033 549 02 61 47</phoneNumber>
+            <description> Le Petit Trianon de St Ustre, 1 Rue du Moulin de Saint Ustre, Ingrandes, 86220, France, 0033 549 02 61 47</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1888">
+                <coordinates>0.588,46.887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1891">
+            <name>Les Gorges du Chambon</name>
+            <phoneNumber>0033 545 70 71 70</phoneNumber>
+            <description> Les Gorges du Chambon, Le Chambon, Eymouthiers, 16220, France, 0033 545 70 71 70</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1890">
+                <coordinates>0.55805,45.65972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1893">
+            <name>S�quoia Parc</name>
+            <phoneNumber>0033 546 85 55 55</phoneNumber>
+            <description> S�quoia Parc, La Josephtrie, Saint-Just-Luzac, 17320, France, 0033 546 85 55 55</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1892">
+                <coordinates>-1.1061218,45.810879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1895">
+            <name>Le Lac</name>
+            <phoneNumber>0033 2 97 55 78 78</phoneNumber>
+            <description> Le Lac, Kerlearec, Carnac, 56340, France, 0033 2 97 55 78 78</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1894">
+                <coordinates>-3.029047,47.611271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1897">
+            <name>Les 7 Iles</name>
+            <phoneNumber>00 33 2 96 91 73 11</phoneNumber>
+            <description> Les 7 Iles, Port l'Epine, Trelevern, 22660, France, 00 33 2 96 91 73 11</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1896">
+                <coordinates>-3.383308,48.814944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1899">
+            <name>Grubhof </name>
+            <phoneNumber>0043 6588 8237</phoneNumber>
+            <description> Grubhof Grubhof N0 39, St. Martin bei Lofer, 5092, Austria, 0043 6588 8237</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1898">
+                <coordinates>12.70602,47.57427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1901">
+            <name>La Clusure</name>
+            <phoneNumber> 84 36 0050</phoneNumber>
+            <description> La Clusure, Chemin de la Clusure 30, Bure (Tellin), 6927, Belgium,  84 36 0050</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1900">
+                <coordinates>5.285619,50.096806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1903">
+            <name>Arcadia</name>
+            <phoneNumber>385 91 200 0887</phoneNumber>
+            <description> Arcadia, Put mula 50, Privlaka, 23233, Croatia, 385 91 200 0887</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1902">
+                <coordinates>15.1367789,44.2417068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1905">
+            <name>Plitvice Holiday Resort</name>
+            <phoneNumber>385 47 784 192</phoneNumber>
+            <description> Plitvice Holiday Resort Plitvice Holiday Resort, Rotokor d.o.o., Grabovac 102, 47 245, Croatia, 385 47 784 192</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1904">
+                <coordinates>15.648019,44.973487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1907">
+            <name>Zaton Holiday Resort</name>
+            <phoneNumber>385 23 280280</phoneNumber>
+            <description> Zaton Holiday Resort, Dra�nikova 76 t, Nin, 23232, Croatia, 385 23 280280</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1906">
+                <coordinates>15.1692081,44.2285692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1909">
+            <name>Solitudo</name>
+            <phoneNumber>00385 20 448 686</phoneNumber>
+            <description> Solitudo, Vatroslava Lisinskog 60, Dubrovnik, 20000, Croatia, 00385 20 448 686</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1908">
+                <coordinates>18.0705,42.66191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1911">
+            <name>De Haro</name>
+            <phoneNumber>0034 941 312 737</phoneNumber>
+            <description> De Haro, Avenida de Miranda 1, Haro, La Rioja, 26200, Spain, 0034 941 312 737</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1910">
+                <coordinates>-2.853893,42.578252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1913">
+            <name>La Manga</name>
+            <phoneNumber>0034 968 563 014</phoneNumber>
+            <description> La Manga, Autovia De La Manga, Salida 11, Mar de Menor, 30386, Spain, 0034 968 563 014</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1912">
+                <coordinates>-0.74442,37.62445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1915">
+            <name>Larrouleta</name>
+            <phoneNumber>0033 5 59 47 37 84</phoneNumber>
+            <description> Larrouleta, 210 route de Socoa, Urrugne, 64122, France, 0033 5 59 47 37 84</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1914">
+                <coordinates>-1.686343,43.371491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1917">
+            <name>Jungfrau</name>
+            <phoneNumber>0041 33 856 20 10</phoneNumber>
+            <description> Jungfrau, Weid 406, Lauterbrunnen, 3822, Switzerland, 0041 33 856 20 10</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1916">
+                <coordinates>7.90824,46.58877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1919">
+            <name>Mas Patoxas</name>
+            <phoneNumber>34 972 63 69 28</phoneNumber>
+            <description> Mas Patoxas, Ctra. C-31 Palafrugell, Pals, km.339, Pals, 17256, Spain, 34 972 63 69 28</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1918">
+                <coordinates>3.158102,41.956767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1921">
+            <name>Camping Alicante Imperium</name>
+            <phoneNumber>0034 96 506 32 32</phoneNumber>
+            <description> Camping Alicante Imperium, Camping Alicante Imperium, CV-759, Km1, Villajoyasa, Villajoyasa, 3570, Spain, 0034 96 506 32 32</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1920">
+                <coordinates>-0.22317,38.51798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1923">
+            <name>Bal</name>
+            <phoneNumber>0033 321 35 65 90</phoneNumber>
+            <description> Bal, 500 rue du Vieux Chateau, Tournehem-sur-la-Hem, 62890, France, 0033 321 35 65 90</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1922">
+                <coordinates>2.05519,50.808728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1925">
+            <name>Natterer See</name>
+            <phoneNumber>0043 512 54 67 32</phoneNumber>
+            <description> Natterer See, Natterer See 1, Natters, 6161, Austria, 0043 512 54 67 32</description>
+            <styleUrl>#1301</styleUrl>
+            <Point id="1924">
+                <coordinates>11.33916,47.23832,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

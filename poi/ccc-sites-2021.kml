@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="2">
+            <IconStyle id="3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="4">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/orange-blank.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="6">
+            <name>Alton T' Star ST10 3DW</name>
+            <phoneNumber>01538 70221</phoneNumber>
+            <description>01538 70221</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="5">
+                <coordinates>-1.902287,53.009451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Ashbourne DE6 3EN</name>
+            <phoneNumber>01335 370855</phoneNumber>
+            <description>01335 370855</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="7">
+                <coordinates>-1.64909,53.01915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10">
+            <name>Bakewell DE45 1NA</name>
+            <phoneNumber>01629 636555</phoneNumber>
+            <description>01629 636555</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="9">
+                <coordinates>-1.688239,53.169597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12">
+            <name>Bala LL23 7LN</name>
+            <phoneNumber>01678 530324</phoneNumber>
+            <description>01678 530324</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="11">
+                <coordinates>-3.540269,52.934359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14">
+            <name>Barnard Castle DL12 9DG</name>
+            <phoneNumber>01833 630228</phoneNumber>
+            <description>01833 630228</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="13">
+                <coordinates>-1.965871,54.551519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16">
+            <name>Beadnell Bay NE67 5BX</name>
+            <phoneNumber>01665 720586</phoneNumber>
+            <description>01665 720586</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="15">
+                <coordinates>-1.635439,55.561272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Bellingham NE48 2JY</name>
+            <phoneNumber>01434 220175</phoneNumber>
+            <description>01434 220175</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="17">
+                <coordinates>-2.259493,55.137673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20">
+            <name>Blackmore WR8 0EE</name>
+            <phoneNumber>01684 310280</phoneNumber>
+            <description>01684 310280</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="19">
+                <coordinates>-2.274208,52.094974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22">
+            <name>Boroughbridge YO51 9LS</name>
+            <phoneNumber>01423 322683</phoneNumber>
+            <description>01423 322683</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="21">
+                <coordinates>-1.414232,54.089654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <name>Braithwaite Fold LA23 3HB</name>
+            <phoneNumber>01539 442177</phoneNumber>
+            <description>01539 442177</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="23">
+                <coordinates>-2.923831,54.358349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26">
+            <name>Bude EX23 0BG</name>
+            <phoneNumber>01840 230650</phoneNumber>
+            <description>01840 230650</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="25">
+                <coordinates>-4.584531,50.719098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>California Cross PL21 0SG</name>
+            <phoneNumber>01548 821297</phoneNumber>
+            <description>01548 821297</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="27">
+                <coordinates>-3.822271,50.362932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="30">
+            <name>Cambridge CB22 5NB</name>
+            <phoneNumber>01223 841185</phoneNumber>
+            <description>01223 841185</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="29">
+                <coordinates>0.121625,52.164023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32">
+            <name>Cannock Chase WS15 1QW</name>
+            <phoneNumber>01889 582166</phoneNumber>
+            <description>01889 582166</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="31">
+                <coordinates>-1.943336,52.727427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34">
+            <name>Canterbury CT3 4AB</name>
+            <phoneNumber>01227 463216</phoneNumber>
+            <description>01227 463216</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="33">
+                <coordinates>1.112857,51.277624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="36">
+            <name>Cardigan Bay SA44 6LW</name>
+            <phoneNumber>01545 560029</phoneNumber>
+            <description>01545 560029</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="35">
+                <coordinates>-4.365909,52.183415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Charmouth DT6 6DB</name>
+            <phoneNumber>01297 32965</phoneNumber>
+            <description>01297 32965</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="37">
+                <coordinates>-2.950768,50.76356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="40">
+            <name>Cheddar Mendip Heights BA5 3BP</name>
+            <phoneNumber>01749 870241</phoneNumber>
+            <description>01749 870241</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="39">
+                <coordinates>-2.685178,51.263622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="42">
+            <name>Chertsey KT16 8JX</name>
+            <phoneNumber>01932 562405</phoneNumber>
+            <description>01932 562405</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="41">
+                <coordinates>-0.489691,51.389339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="44">
+            <name>Chichester PO10 8JH</name>
+            <phoneNumber>01243 373202</phoneNumber>
+            <description>01243 373202</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="43">
+                <coordinates>-0.903228333,50.84464167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="46">
+            <name>Chipping Norton OX7 3PE</name>
+            <phoneNumber>01608 641993</phoneNumber>
+            <description>01608 641993</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="45">
+                <coordinates>-1.54179,51.91712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Clent Hills B62 0NH</name>
+            <phoneNumber>01562 710015</phoneNumber>
+            <description>01562 710015</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="47">
+                <coordinates>-2.070577,52.41392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50">
+            <name>Clitheroe BB7 3LA</name>
+            <phoneNumber>01200 425294</phoneNumber>
+            <description>01200 425294</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="49">
+                <coordinates>-2.415951,53.868089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52">
+            <name>Conkers Nat Forest DE12 6BD</name>
+            <phoneNumber>01283 22492</phoneNumber>
+            <description>01283 22492</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="51">
+                <coordinates>-1.548132,52.737157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54">
+            <name>Corfe Castle BH20 5PQ</name>
+            <phoneNumber>01929 480280</phoneNumber>
+            <description>01929 480280</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="53">
+                <coordinates>-2.069185,50.634822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56">
+            <name>Crowborough TN6 2TN</name>
+            <phoneNumber>01892 664827</phoneNumber>
+            <description>01892 664827</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="55">
+                <coordinates>0.16804,51.062676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>Crowden SK13 1HZ</name>
+            <phoneNumber>01457 866057</phoneNumber>
+            <description>01457 866057</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="57">
+                <coordinates>-1.891612,53.490932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60">
+            <name>Culzean Castle KA19 8JX</name>
+            <phoneNumber>01655 760627</phoneNumber>
+            <description>01655 760627</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="59">
+                <coordinates>-4.76826,55.353098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62">
+            <name>Dartmouth TQ6 0RF</name>
+            <phoneNumber>01803 770253</phoneNumber>
+            <description>01803 770253</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="61">
+                <coordinates>-3.596102,50.330875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64">
+            <name>Delamere Forest CW8 2HZ</name>
+            <phoneNumber>01606 889231</phoneNumber>
+            <description>01606 889231</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="63">
+                <coordinates>-2.666255,53.230361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66">
+            <name>Delamont Country Park BT30 9TZ</name>
+            <phoneNumber>028 4482 1833</phoneNumber>
+            <description>028 4482 1833</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="65">
+                <coordinates>-5.674524,54.386805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>Derwentwater  CA12 5EN</name>
+            <phoneNumber>01768 772579</phoneNumber>
+            <description>01768 772579</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="67">
+                <coordinates>-3.143353,54.60005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="70">
+            <name>Devizes SN12 6RN</name>
+            <phoneNumber>01380 828839</phoneNumber>
+            <description>01380 828839</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="69">
+                <coordinates>-2.072076,51.356511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72">
+            <name>Dingwall IV15 9QZ</name>
+            <phoneNumber>01349 862236</phoneNumber>
+            <description>01349 862236</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="71">
+                <coordinates>-4.41918,57.597577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74">
+            <name>Drayton Manor B78 3SA</name>
+            <phoneNumber>01827 260617</phoneNumber>
+            <description>01827 260617</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="73">
+                <coordinates>-1.714548,52.608521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76">
+            <name>Dunbar EH42 1WG</name>
+            <phoneNumber>01368 866881</phoneNumber>
+            <description>01368 866881</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="75">
+                <coordinates>-2.4801,55.9911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>Dunstan Hill NE66 3TQ</name>
+            <phoneNumber>01665 576310</phoneNumber>
+            <description>01665 576310</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="77">
+                <coordinates>-1.629158,55.485454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80">
+            <name>Ebury Hill SY4 4GB</name>
+            <phoneNumber>01743 709334</phoneNumber>
+            <description>01743 709334</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="79">
+                <coordinates>-2.671203,52.74532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82">
+            <name>Folkestone CT19 6NQ</name>
+            <phoneNumber>01303 255093</phoneNumber>
+            <description>01303 255093</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="81">
+                <coordinates>1.198111,51.09035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84">
+            <name>Glencoe PH49 4LA</name>
+            <phoneNumber>01855 811397</phoneNumber>
+            <description>01855 811397</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="83">
+                <coordinates>-5.079852,56.670645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86">
+            <name>Graffham GU28 0QF</name>
+            <phoneNumber>01798 867476</phoneNumber>
+            <description>01798 867476</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="85">
+                <coordinates>-0.661878,50.960704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>Haltwhistle NE49 0JP</name>
+            <phoneNumber>01434 320106</phoneNumber>
+            <description>01434 320106</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="87">
+                <coordinates>-2.494792,54.951985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90">
+            <name>Hayfield SK22 2LE</name>
+            <phoneNumber>01663 745394</phoneNumber>
+            <description>01663 745394</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="89">
+                <coordinates>-1.928264,53.379033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92">
+            <name>Hereford HR1 4JA</name>
+            <phoneNumber>01432 890243</phoneNumber>
+            <description>01432 890243</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="91">
+                <coordinates>-2.548527,52.066688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94">
+            <name>Hertford SG13 8AJ</name>
+            <phoneNumber>01992 586696</phoneNumber>
+            <description>01992 586696</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="93">
+                <coordinates>-0.06801,51.78571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96">
+            <name>Horsley KT24 6PE</name>
+            <phoneNumber>01483 283273</phoneNumber>
+            <description>01483 283273</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="95">
+                <coordinates>-0.445429,51.286893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>Inverewe Gardens Poolewe IV22 2LF</name>
+            <phoneNumber>01445 781249</phoneNumber>
+            <description>01445 781249</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="97">
+                <coordinates>-5.599208,57.768218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100">
+            <name>Jedburgh TD8 6EF</name>
+            <phoneNumber>01835 863393</phoneNumber>
+            <description>01835 863393</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="99">
+                <coordinates>-2.544451,55.488079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102">
+            <name>Kelvedon Hatch CM15 0JG</name>
+            <phoneNumber>01277 372773</phoneNumber>
+            <description>01277 372773</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="101">
+                <coordinates>0.278193,51.655466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104">
+            <name>Kendal LA9 6NY</name>
+            <phoneNumber>01539 741363</phoneNumber>
+            <description>01539 741363</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="103">
+                <coordinates>-2.731669,54.348227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="106">
+            <name>Kessingland NR33 7TF</name>
+            <phoneNumber>01502 742040</phoneNumber>
+            <description>01502 742040</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="105">
+                <coordinates>1.705542,52.419042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>Keswick CA12 5EP</name>
+            <phoneNumber>01768 772392</phoneNumber>
+            <description>01768 772392</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="107">
+                <coordinates>-3.143514,54.600466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <name>Kingsbury Water Park B76 0DY</name>
+            <phoneNumber>01827 874101</phoneNumber>
+            <description>01827 874101</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="109">
+                <coordinates>-1.705153,52.563633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112">
+            <name>Lauder TD2 6RA</name>
+            <phoneNumber>01578 750697</phoneNumber>
+            <description>01578 750697</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="111">
+                <coordinates>-2.784449,55.772442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114">
+            <name>Leek ST13 8TL</name>
+            <phoneNumber>01538 300285</phoneNumber>
+            <description>01538 300285</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="113">
+                <coordinates>-1.993174,53.128674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116">
+            <name>Llanystumdwy LL52 0LS</name>
+            <phoneNumber>01766 522855</phoneNumber>
+            <description>01766 522855</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="115">
+                <coordinates>-4.279041,52.921108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>Loch Ness Shores IV26YH</name>
+            <phoneNumber>01456 486333</phoneNumber>
+            <description>01456 486333</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="117">
+                <coordinates>-4.483829,57.2591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120">
+            <name>Luss G83 8NT</name>
+            <phoneNumber>01436 860658</phoneNumber>
+            <description>01436 860658</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="119">
+                <coordinates>-4.640077,56.103716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="122">
+            <name>Lynton EX35 6JS</name>
+            <phoneNumber>01598 752379</phoneNumber>
+            <description>01598 752379</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="121">
+                <coordinates>-3.857719,51.216908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="124">
+            <name>Mablethorpe LN12 2NU</name>
+            <phoneNumber>01507 472374</phoneNumber>
+            <description>01507 472374</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="123">
+                <coordinates>0.251538,53.330364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="126">
+            <name>Milarrochy Bay G63 0AL</name>
+            <phoneNumber>01360 870236</phoneNumber>
+            <description>01360 870236</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="125">
+                <coordinates>-4.561408,56.100384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>Minehead TA24 5LB</name>
+            <phoneNumber>01643 704138</phoneNumber>
+            <description>01643 704138</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="127">
+                <coordinates>-3.494596,51.213884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="130">
+            <name>Moffat DG10 9DY</name>
+            <phoneNumber>01683 220436</phoneNumber>
+            <description>01683 220436</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="129">
+                <coordinates>-3.442186,55.331894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="132">
+            <name>Moreton DT2 8BB</name>
+            <phoneNumber>01305 853801</phoneNumber>
+            <description>01305 853801</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="131">
+                <coordinates>-2.311922,50.701541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="134">
+            <name>Nairn IV12 5NX</name>
+            <phoneNumber>01667 455281</phoneNumber>
+            <description>01667 455281</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="133">
+                <coordinates>-3.930048,57.571117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="136">
+            <name>Normans Bay BN24 6PR</name>
+            <phoneNumber>01323 761190</phoneNumber>
+            <description>01323 761190</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="135">
+                <coordinates>0.378964,50.821784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>Norwich NR1 2HX</name>
+            <phoneNumber>01603 620060</phoneNumber>
+            <description>01603 620060</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="137">
+                <coordinates>1.30268,52.60888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="140">
+            <name>Oban PA37 1SG</name>
+            <phoneNumber>01631 720348</phoneNumber>
+            <description>01631 720348</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="139">
+                <coordinates>-5.310892,56.527051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="142">
+            <name>Oldbury Hill TN15 0ET</name>
+            <phoneNumber>01732 762728</phoneNumber>
+            <description>01732 762728</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="141">
+                <coordinates>0.260408,51.284501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="144">
+            <name>Oxford OX1 4XG</name>
+            <phoneNumber>01865 244088</phoneNumber>
+            <description>01865 244088</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="143">
+                <coordinates>-1.250245,51.731343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="146">
+            <name>Polstead CO6 5BZ</name>
+            <phoneNumber>01787 211969</phoneNumber>
+            <description>01787 211969</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="145">
+                <coordinates>0.895445,52.024897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>Ravenglass CA18 1SR</name>
+            <phoneNumber>01229 717250</phoneNumber>
+            <description>01229 717250</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="147">
+                <coordinates>-3.406545,54.355976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="150">
+            <name>Rhandirmwyn SA20 0NT</name>
+            <phoneNumber>01550 760257</phoneNumber>
+            <description>01550 760257</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="149">
+                <coordinates>-3.783851,52.077228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="152">
+            <name>Rosemarkie IV10 8SE</name>
+            <phoneNumber>01381 621117</phoneNumber>
+            <description>01381 621117</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="151">
+                <coordinates>-4.109166,57.583123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="154">
+            <name>Salisbury SP1 3SA</name>
+            <phoneNumber>01722 320713</phoneNumber>
+            <description>01722 320713</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="153">
+                <coordinates>-1.798984,51.088018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="156">
+            <name>Sandringham PE35 6EA</name>
+            <phoneNumber>01485 542555</phoneNumber>
+            <description>01485 542555</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="155">
+                <coordinates>0.493274,52.818246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name>Scarborough YO13 0DA</name>
+            <phoneNumber>01723 366212</phoneNumber>
+            <description>01723 366212</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="157">
+                <coordinates>-0.427608,54.305773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160">
+            <name>Scone PH2 6BB</name>
+            <phoneNumber>01738 552323</phoneNumber>
+            <description>01738 552323</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="159">
+                <coordinates>-3.438831,56.430019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="162">
+            <name>Sennen Cove TR19 6JB</name>
+            <phoneNumber>01736 871588</phoneNumber>
+            <description>01736 871588</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="161">
+                <coordinates>-5.667468,50.089328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="164">
+            <name>Sheriff Hutton YO60 6QG</name>
+            <phoneNumber>01347 878660</phoneNumber>
+            <description>01347 878660</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="163">
+                <coordinates>-1.027841,54.077802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="166">
+            <name>Skye IV51 9PS</name>
+            <phoneNumber>01470 582230</phoneNumber>
+            <description>01470 582230</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="165">
+                <coordinates>-6.430081,57.485675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name>Slapton Sands TQ7 2QW</name>
+            <phoneNumber>01548 580538</phoneNumber>
+            <description>01548 580538</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="167">
+                <coordinates>-3.650824,50.29058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="170">
+            <name>Slindon BN18 0RG</name>
+            <phoneNumber>01243 814387</phoneNumber>
+            <description>01243 814387</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="169">
+                <coordinates>-0.640544,50.868568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="172">
+            <name>Slingsby YO62 4AN</name>
+            <phoneNumber>01653 628335</phoneNumber>
+            <description>01653 628335</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="171">
+                <coordinates>-0.931258,54.170048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="174">
+            <name>Speyside by Craigellachie AB38 9SL</name>
+            <phoneNumber>01340 810414</phoneNumber>
+            <description>01340 810414</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="173">
+                <coordinates>-3.243386,57.488724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="176">
+            <name>St David's SA62 6DW</name>
+            <phoneNumber>01348 831376</phoneNumber>
+            <description>01348 831376</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="175">
+                <coordinates>-5.192059,51.930004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>St Neots PE19 2PR</name>
+            <phoneNumber>01480 474404</phoneNumber>
+            <description>01480 474404</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="177">
+                <coordinates>-0.274293,52.220442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="180">
+            <name>Tarland by Deeside AB34 4UP</name>
+            <phoneNumber>01339 881388</phoneNumber>
+            <description>01339 881388</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="179">
+                <coordinates>-2.866831,57.128038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="182">
+            <name>Tavistock PL19 9LQ</name>
+            <phoneNumber>01822 618672</phoneNumber>
+            <description>01822 618672</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="181">
+                <coordinates>-4.094931,50.553928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="184">
+            <name>Teversal NG17 3JJ</name>
+            <phoneNumber>01623 551838</phoneNumber>
+            <description>01623 551838</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="183">
+                <coordinates>-1.295654,53.148936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="186">
+            <name>Theobalds Park EN7 5HS</name>
+            <phoneNumber>01992 620604</phoneNumber>
+            <description>01992 620604</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="185">
+                <coordinates>-0.058365,51.686146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name>Tregurrian TR8 4AE</name>
+            <phoneNumber>01637 860448</phoneNumber>
+            <description>01637 860448</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="187">
+                <coordinates>-5.030821,50.448989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="190">
+            <name>Umberleigh EX37 9DU</name>
+            <phoneNumber>01769 560009</phoneNumber>
+            <description>01769 560009</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="189">
+                <coordinates>-3.989807,50.998585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="192">
+            <name>Verwood  New Forest BH21 8NQ</name>
+            <phoneNumber>01202 822763</phoneNumber>
+            <description>01202 822763</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="191">
+                <coordinates>-1.905377,50.885479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="194">
+            <name>Veryan TR2 5PP</name>
+            <phoneNumber>01872 501658</phoneNumber>
+            <description>01872 501658</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="193">
+                <coordinates>-4.899843,50.233097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="196">
+            <name>Walton on Thames KT12 3QG</name>
+            <phoneNumber>01932 220392</phoneNumber>
+            <description>01932 220392</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="195">
+                <coordinates>-0.377188,51.389328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <name>West Runton NR27 9NW</name>
+            <phoneNumber>01263 837544</phoneNumber>
+            <description>01263 837544</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="197">
+                <coordinates>1.254648,52.929353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="200">
+            <name>Winchcombe GL20 8NX</name>
+            <phoneNumber>01242 620259</phoneNumber>
+            <description>01242 620259</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="199">
+                <coordinates>-1.990634,51.990939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="202">
+            <name>Windermere LA8 9JS</name>
+            <phoneNumber>01539 821119</phoneNumber>
+            <description>01539 821119</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="201">
+                <coordinates>-2.802297,54.360939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="204">
+            <name>Wolverley DY10 3PX</name>
+            <phoneNumber>01562 850909</phoneNumber>
+            <description>01562 850909</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="203">
+                <coordinates>-2.24403,52.408519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="206">
+            <name>Woodhall Spa LN10 6YU</name>
+            <phoneNumber>01526 352911</phoneNumber>
+            <description>01526 352911</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="205">
+                <coordinates>-0.168271,53.152867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="208">
+            <name>Wyeside Campsite LD6 5LB</name>
+            <phoneNumber>01597 810183</phoneNumber>
+            <description>01597 810183</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="207">
+                <coordinates>-3.5151,52.3049,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
